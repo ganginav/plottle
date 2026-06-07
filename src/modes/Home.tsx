@@ -18,7 +18,7 @@ export function Home({ stats, playedToday, onPick }: Props) {
           Plottle
         </h1>
         <p className="mx-auto mt-2 max-w-sm text-balance text-muted">
-          We give you a movie&apos;s plot. You name the film. Fewer guesses, more glory — all 2026 releases.
+          We give you a movie&apos;s plot. You name the film. Fewer guesses, more glory — 2023–2026 releases.
         </p>
       </div>
 

@@ -38,6 +38,8 @@ export interface RevealedHints {
   runtimeSeconds?: number | null;
   rating?: { aggregateRating: number; voteCount: number };
   posterUrl?: string | null;
+  /** Title with only first letters + word lengths shown (final hint). */
+  obfuscatedTitle?: string;
 }
 
 export interface GuessResponse {

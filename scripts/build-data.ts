@@ -18,7 +18,7 @@ import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 // ─── Config (one-line changes to expand scope) ───────────────────────────────
-const CANONICAL_START_YEAR = 2026;
+const CANONICAL_START_YEAR = 2023;
 const CANONICAL_END_YEAR = 2026;
 
 /** API query floor — kept low so the guess/autocomplete universe is broad. */

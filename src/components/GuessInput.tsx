@@ -101,7 +101,7 @@ export function GuessInput({ movies, guessedIds, disabled, submitting, onGuess }
           className="absolute z-20 mt-2 max-h-80 w-full overflow-auto rounded-xl border border-border bg-bg-elev p-1.5 shadow-card animate-fade-up"
         >
           {results.length === 0 && (
-            <li className="px-3 py-3 text-sm text-muted">No 2026 titles match “{query.trim()}”.</li>
+            <li className="px-3 py-3 text-sm text-muted">No titles match “{query.trim()}”.</li>
           )}
           {results.map((m, i) => {
             const isGuessed = guessed.has(m.id);

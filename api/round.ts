@@ -3,7 +3,7 @@ import { getDailyId, getMovie, randomMovie, todayUTC, secondsUntilUtcMidnight } 
 import { scrubPlot } from './_lib/scrub.js';
 import { signRoundToken } from './_lib/token.js';
 
-const GUESSES_ALLOWED = 6;
+const GUESSES_ALLOWED = 7;
 
 /**
  * GET /api/round?mode=daily|endless

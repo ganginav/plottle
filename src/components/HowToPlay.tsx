@@ -7,9 +7,9 @@ interface Props {
 
 const STEPS = [
   { n: '1', t: 'Read the plot', d: 'Every round opens with a real IMDb plot for a 2026 movie. Title words are redacted with ▮▮▮▮.' },
-  { n: '2', t: 'Guess from the list', d: 'Start typing and pick a title. You get 6 guesses.' },
-  { n: '3', t: 'Earn hints', d: 'Each wrong guess unlocks the next clue: genres → year → runtime → rating → a blurred poster.' },
-  { n: '4', t: 'Score big, fast', d: 'Fewer guesses = more points. Guess 1 is worth 100, down to 15 on guess 6.' },
+  { n: '2', t: 'Guess from the list', d: 'Start typing and pick a title. You get 7 guesses.' },
+  { n: '3', t: 'Earn hints', d: 'Each wrong guess unlocks the next clue: genres → year → runtime → rating → a blurred poster → the title with its first letters revealed.' },
+  { n: '4', t: 'Score big, fast', d: 'Fewer guesses = more points. Guess 1 is worth 100, down to 10 on guess 7.' },
 ];
 
 export function HowToPlay({ open, onClose }: Props) {

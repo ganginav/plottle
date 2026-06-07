@@ -31,7 +31,7 @@ export function Header({ theme, onToggleTheme, onHelp, onBack }: Props) {
         <div className="flex flex-1 items-baseline gap-2">
           <span className="font-display text-xl font-bold tracking-tight text-text">Plottle</span>
           <span className="hidden text-xs font-semibold uppercase tracking-wider text-faint sm:inline">
-            2026
+            2023–26
           </span>
         </div>
 
