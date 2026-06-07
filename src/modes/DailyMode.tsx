@@ -64,7 +64,7 @@ export function DailyMode({ movies, moviesById, onKeepPlaying }: Props) {
         <DailyResultActions
           result={result}
           stats={stats}
-          guessesAllowed={state.guessesAllowed || 6}
+          guessesAllowed={state.guessesAllowed || 7}
           onKeepPlaying={onKeepPlaying}
         />
       </ResultCard>

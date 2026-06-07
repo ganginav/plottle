@@ -7,7 +7,7 @@ import type { DailyResult } from './types';
  *   Plottle 2026-06-07
  *   🟥🟥🟩  (solved on guess 3)
  */
-export function buildShareText(result: DailyResult, maxGuesses = 6): string {
+export function buildShareText(result: DailyResult, maxGuesses = 7): string {
   const squares: string[] = [];
   const wrong = result.solved ? result.guessUsed - 1 : result.guessUsed;
   for (let i = 0; i < wrong; i++) squares.push('🟥');

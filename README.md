@@ -1,12 +1,14 @@
 # 🎬 Plottle
 
 Guess the movie from its IMDb plot. Each wrong guess reveals another hint
-(genres → year → runtime → rating → a blurred poster); the fewer guesses you take,
-the higher your score. Two modes — a shared **Daily** puzzle and an endless
-**score-attack** run. Dark and light themes, mobile-first.
+(genres → year → runtime → rating → a blurred poster → the title with its first
+letters revealed); the fewer guesses you take, the higher your score. You get **7
+guesses**. Two modes — a shared **Daily** puzzle and an endless **score-attack** run.
+Dark and light themes, mobile-first.
 
-**v1 scope: 2026 releases only.** The year span is a one-line config constant, so
-widening it later is a config + data-refresh change, not a rewrite.
+**Scope: US-origin movies released 2023–2026.** The year span and origin-country
+filter are config constants, so widening them later is a config + data-refresh change,
+not a rewrite.
 
 - **Frontend:** Vite + React + TypeScript + Tailwind (class-based dark mode, CSS-variable palettes).
 - **Backend:** Vercel Functions in `/api` — they own the answers, scrub plots, and validate guesses.
@@ -116,20 +118,20 @@ The browser can never read the answer, even with devtools open:
     signed with `HMAC_SECRET`. The client can't read or forge it.
 - `POST /api/guess` recovers the answer (date lookup / HMAC verify), compares ids, and
   returns only `correct` / `gameOver`. The **answer (id + title) is included only once the
-  round is over** — a correct guess, or the client signaling it gave up / used all 6 guesses.
+  round is over** — a correct guess, or the client signaling it gave up / used all 7 guesses.
 - Future daily dates are rejected (the schedule is pre-populated ahead of today).
 - Light in-memory **rate limiting** on `/api/guess` blunts brute-forcing the title list.
 
 **Honest limits (same as Wordle):**
 
 - Without accounts, a player's *self-reported* streak / share text is spoofable.
-- The 6-guess cap and hint gating are **not hard-enforced server-side** — there's no
+- The 7-guess cap and hint gating are **not hard-enforced server-side** — there's no
   per-round state without a store. Hint values are delivered progressively by the server
   (gated by a client-supplied guess number), so a determined devtools user could request a
   later hint early and, e.g., reverse-map a revealed poster. This only spoils that user's
   own game; it doesn't expose answers to anyone else.
 - Add a **KV store** (still not a relational DB) only if you later want to hard-enforce the
-  6-guess cap, guarantee one-play-per-day, or run a shared leaderboard.
+  7-guess cap, guarantee one-play-per-day, or run a shared leaderboard.
 
 ---
 
@@ -138,15 +140,16 @@ The browser can never read the answer, even with devtools open:
 All in `scripts/build-data.ts`, then re-run `npm run build:data`:
 
 ```ts
-const CANONICAL_START_YEAR = 2026;  // widen the span, e.g. 2000
+const CANONICAL_START_YEAR = 2023;   // widen the span, e.g. 2000
 const CANONICAL_END_YEAR   = 2026;
 const FETCH_MIN_VOTES      = 10_000; // guess/autocomplete universe floor
 const DAILY_MIN_VOTES      = 25_000; // daily-answer eligibility floor
+const ALLOWED_ORIGIN_COUNTRIES = new Set(['US']); // add 'GB', 'CA', … to widen
 ```
 
 When the span widens and the snapshot grows, swap the `useSnapshot` localStorage cache
 for IndexedDB — it's isolated behind that one hook. (The Endless year-range picker is
-deferred; with 2026-only every movie is already in scope.)
+deferred; both modes draw from the full pool.)
 
 ---
 

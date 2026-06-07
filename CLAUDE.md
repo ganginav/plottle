@@ -5,8 +5,9 @@ worktree workflow, design standards) live in [AGENTS.md](./AGENTS.md) — follow
 
 ## What this is
 
-**Plottle** — a movie-guessing game. Players see a 2026 movie's IMDb plot and guess the
-title; wrong guesses unlock hints (genres → year → runtime → rating → blurred poster).
+**Plottle** — a movie-guessing game. Players see a movie's IMDb plot (US releases,
+2023–2026) and guess the title in 7 tries; wrong guesses unlock hints (genres → year →
+runtime → rating → blurred poster → obfuscated title).
 Vite + React + TS + Tailwind frontend; Vercel Functions backend. Full architecture in
 [README.md](./README.md).
 

@@ -30,7 +30,7 @@ const EMPTY_STATS: DailyStats = {
   wins: 0,
   currentStreak: 0,
   maxStreak: 0,
-  distribution: [0, 0, 0, 0, 0, 0],
+  distribution: [0, 0, 0, 0, 0, 0, 0],
 };
 
 export const getDailyStats = (): DailyStats => read(K.stats, EMPTY_STATS);

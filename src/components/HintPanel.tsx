@@ -19,6 +19,7 @@ const HINT_LABELS: Record<(typeof HINT_LADDER)[number], string> = {
   runtime: 'Runtime',
   rating: 'IMDb rating',
   poster: 'Poster (blurred)',
+  title: 'Title revealed',
 };
 
 export function HintPanel({
@@ -154,12 +155,18 @@ function HintValue({ hintKey, hints }: { hintKey: (typeof HINT_LADDER)[number]; 
           <img
             src={hints.posterUrl}
             alt="Blurred poster"
-            className="h-full w-full scale-110 object-cover blur-xl"
-            style={{ filter: 'blur(14px)' }}
+            className="h-full w-full scale-105 object-cover"
+            style={{ filter: 'blur(7px)' }}
           />
         </span>
       ) : (
         <span className="text-sm text-muted">No poster</span>
+      );
+    case 'title':
+      return (
+        <span className="font-mono text-base font-bold tracking-[0.15em] text-brand">
+          {hints.obfuscatedTitle}
+        </span>
       );
   }
 }
