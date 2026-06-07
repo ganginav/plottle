@@ -33,6 +33,14 @@ const DAILY_LOOKAHEAD_DAYS = 30;
 /** Stable seed for the daily shuffle. */
 const DAILY_SEED = 0x50_6c_6f_74; // "Plot"
 
+/**
+ * Keep only movies whose origin countries include one of these ISO codes. This
+ * filters out foreign-language / non-US films to keep titles widely recognizable.
+ * The list query has no country field, so we fetch each title's detail to read it.
+ * Add codes (e.g. 'GB', 'CA') to widen the pool.
+ */
+const ALLOWED_ORIGIN_COUNTRIES = new Set(['US']);
+
 const REQUEST_DELAY_MS = 350;
 const API_BASE = 'https://api.imdbapi.dev/titles';
 
@@ -99,6 +107,14 @@ async function fetchYear(year: number): Promise<ApiTitle[]> {
     if (pageToken) await sleep(REQUEST_DELAY_MS);
   } while (pageToken);
   return out;
+}
+
+/** Fetch a single title's origin-country ISO codes (e.g. ['US']). */
+async function fetchOriginCountries(id: string): Promise<string[]> {
+  const res = await fetch(`${API_BASE}/${id}`);
+  if (!res.ok) throw new Error(`detail ${res.status} for ${id}`);
+  const data = (await res.json()) as { originCountries?: { code?: string }[] };
+  return (data.originCountries ?? []).map((c) => c.code).filter((c): c is string => Boolean(c));
 }
 
 function toPrivate(t: ApiTitle): PrivateMovie | null {
@@ -220,17 +236,37 @@ async function main() {
 
   // De-dupe by id, strip, discard incomplete records.
   const seen = new Set<string>();
-  const movies: PrivateMovie[] = [];
+  const candidates: PrivateMovie[] = [];
   for (const t of raw) {
     if (seen.has(t.id)) continue;
     const m = toPrivate(t);
     if (m) {
       seen.add(t.id);
-      movies.push(m);
+      candidates.push(m);
     }
   }
+  console.log(`${candidates.length} titles with plot + title; filtering by origin country…`);
+
+  // Origin-country filter: one extra detail request per title (the list query has
+  // no country field). Keep only movies whose origin includes an allowed code.
+  const allowed = [...ALLOWED_ORIGIN_COUNTRIES].join(', ');
+  const movies: PrivateMovie[] = [];
+  for (const m of candidates) {
+    try {
+      const countries = await fetchOriginCountries(m.id);
+      if (countries.some((c) => ALLOWED_ORIGIN_COUNTRIES.has(c))) {
+        movies.push(m);
+      } else {
+        console.log(`  drop ${m.primaryTitle} (${countries.join('/') || 'unknown'})`);
+      }
+    } catch (err) {
+      // Couldn't confirm origin → drop, to stay strictly within the allowed set.
+      console.warn(`  drop ${m.primaryTitle} (detail failed: ${(err as Error).message})`);
+    }
+    await sleep(REQUEST_DELAY_MS);
+  }
   movies.sort((a, b) => (b.rating?.voteCount ?? 0) - (a.rating?.voteCount ?? 0));
-  console.log(`Kept ${movies.length} titles with plot + title.`);
+  console.log(`Kept ${movies.length}/${candidates.length} titles with origin country in [${allowed}].`);
 
   const generatedAt = new Date().toISOString();
   const canonicalYearSpan: [number, number] = [CANONICAL_START_YEAR, CANONICAL_END_YEAR];
