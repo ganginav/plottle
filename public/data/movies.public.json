@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T19:54:04.276Z",
+  "generatedAt": "2026-06-07T20:35:35.140Z",
   "canonicalYearSpan": [
     2026,
     2026
@@ -20,7 +20,7 @@
       ],
       "rating": {
         "aggregateRating": 8.3,
-        "voteCount": 344743
+        "voteCount": 345047
       }
     },
     {
@@ -39,7 +39,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 132106
+        "voteCount": 132128
       }
     },
     {
@@ -56,7 +56,7 @@
       ],
       "rating": {
         "aggregateRating": 6.7,
-        "voteCount": 117814
+        "voteCount": 117962
       }
     },
     {
@@ -74,7 +74,7 @@
       ],
       "rating": {
         "aggregateRating": 7.7,
-        "voteCount": 111778
+        "voteCount": 111926
       }
     },
     {
@@ -91,7 +91,7 @@
       ],
       "rating": {
         "aggregateRating": 7.2,
-        "voteCount": 106035
+        "voteCount": 106098
       }
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 101870
+        "voteCount": 101920
       }
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rating": {
         "aggregateRating": 6.1,
-        "voteCount": 85194
+        "voteCount": 85317
       }
     },
     {
@@ -141,7 +141,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 80377
+        "voteCount": 80418
       }
     },
     {
@@ -158,7 +158,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 79676
+        "voteCount": 79750
       }
     },
     {
@@ -174,7 +174,7 @@
       ],
       "rating": {
         "aggregateRating": 6.1,
-        "voteCount": 78447
+        "voteCount": 78503
       }
     },
     {
@@ -191,7 +191,7 @@
       ],
       "rating": {
         "aggregateRating": 7.2,
-        "voteCount": 70961
+        "voteCount": 71065
       }
     },
     {
@@ -211,7 +211,7 @@
       ],
       "rating": {
         "aggregateRating": 6.2,
-        "voteCount": 69615
+        "voteCount": 69641
       }
     },
     {
@@ -226,24 +226,7 @@
       ],
       "rating": {
         "aggregateRating": 1.6,
-        "voteCount": 68880
-      }
-    },
-    {
-      "id": "tt39139925",
-      "primaryTitle": "Dhurandhar: The Revenge",
-      "originalTitle": "Dhurandhar: The Revenge",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzdkNjAxNWMtNWY3My00NTI1LTg2YWQtOGI3MDA0NzdhMjEyXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 14100,
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 8.3,
-        "voteCount": 58770
+        "voteCount": 68882
       }
     },
     {
@@ -262,7 +245,7 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 57771
+        "voteCount": 57829
       }
     },
     {
@@ -281,7 +264,7 @@
       ],
       "rating": {
         "aggregateRating": 7,
-        "voteCount": 55721
+        "voteCount": 55932
       }
     },
     {
@@ -298,7 +281,7 @@
       ],
       "rating": {
         "aggregateRating": 5.5,
-        "voteCount": 55409
+        "voteCount": 55446
       }
     },
     {
@@ -314,7 +297,7 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 55318
+        "voteCount": 55390
       }
     },
     {
@@ -333,7 +316,24 @@
       ],
       "rating": {
         "aggregateRating": 7.3,
-        "voteCount": 54525
+        "voteCount": 54799
+      }
+    },
+    {
+      "id": "tt26657236",
+      "primaryTitle": "Backrooms",
+      "originalTitle": "Backrooms",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6600,
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 49375
       }
     },
     {
@@ -351,24 +351,7 @@
       ],
       "rating": {
         "aggregateRating": 6.4,
-        "voteCount": 49304
-      }
-    },
-    {
-      "id": "tt26657236",
-      "primaryTitle": "Backrooms",
-      "originalTitle": "Backrooms",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 6600,
-      "genres": [
-        "Horror",
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 7.1,
-        "voteCount": 48837
+        "voteCount": 49313
       }
     },
     {
@@ -384,7 +367,7 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 45269
+        "voteCount": 45291
       }
     },
     {
@@ -401,7 +384,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 41609
+        "voteCount": 41661
       }
     },
     {
@@ -419,7 +402,7 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 40049
+        "voteCount": 40142
       }
     },
     {
@@ -437,7 +420,7 @@
       ],
       "rating": {
         "aggregateRating": 5.2,
-        "voteCount": 38314
+        "voteCount": 38354
       }
     },
     {
@@ -452,7 +435,7 @@
       ],
       "rating": {
         "aggregateRating": 6.2,
-        "voteCount": 36967
+        "voteCount": 37064
       }
     },
     {
@@ -468,7 +451,7 @@
       ],
       "rating": {
         "aggregateRating": 7.7,
-        "voteCount": 32363
+        "voteCount": 32481
       }
     },
     {
@@ -484,7 +467,7 @@
       ],
       "rating": {
         "aggregateRating": 6.1,
-        "voteCount": 32253
+        "voteCount": 32292
       }
     },
     {
@@ -501,8 +484,8 @@
         "Sci-Fi"
       ],
       "rating": {
-        "aggregateRating": 5.7,
-        "voteCount": 30146
+        "aggregateRating": 5.6,
+        "voteCount": 30191
       }
     },
     {
@@ -518,26 +501,7 @@
       ],
       "rating": {
         "aggregateRating": 5,
-        "voteCount": 29193
-      }
-    },
-    {
-      "id": "tt15464188",
-      "primaryTitle": "Ikkis",
-      "originalTitle": "Ikkis",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjhjOGFkNGYtNmE3Yi00YmM0LWE4MDUtZDY0NDg3OTEwYWRmXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 8640,
-      "genres": [
-        "Action",
-        "Biography",
-        "Drama",
-        "History",
-        "War"
-      ],
-      "rating": {
-        "aggregateRating": 6.1,
-        "voteCount": 26633
+        "voteCount": 29201
       }
     },
     {
@@ -553,24 +517,7 @@
       ],
       "rating": {
         "aggregateRating": 6.9,
-        "voteCount": 26181
-      }
-    },
-    {
-      "id": "tt4357198",
-      "primaryTitle": "How to Make a Killing",
-      "originalTitle": "How to Make a Killing",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTkwY2JjMWYtOGU4YS00ZTg0LWIzYzUtZDkxNDE5NWNkNWM1XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 6300,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 6.5,
-        "voteCount": 25928
+        "voteCount": 26471
       }
     },
     {
@@ -588,7 +535,7 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 25469
+        "voteCount": 25503
       }
     },
     {
@@ -604,7 +551,7 @@
       ],
       "rating": {
         "aggregateRating": 6,
-        "voteCount": 24610
+        "voteCount": 24690
       }
     },
     {
@@ -623,45 +570,7 @@
       ],
       "rating": {
         "aggregateRating": 6.7,
-        "voteCount": 23971
-      }
-    },
-    {
-      "id": "tt31969779",
-      "primaryTitle": "O' Romeo",
-      "originalTitle": "O' Romeo",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZTQzZTgyODItYzg5My00YzhhLWFlYzctYTljM2E5NWI5NDcyXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 10680,
-      "genres": [
-        "Action",
-        "Crime",
-        "Drama",
-        "Romance",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 5.2,
-        "voteCount": 23681
-      }
-    },
-    {
-      "id": "tt31390893",
-      "primaryTitle": "Raja Shivaji",
-      "originalTitle": "Raja Shivaji",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZmEwNTU4MzEtY2Y4Ni00ZWRmLThhMGMtMDE5MTZmMDIzMGVjXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 11700,
-      "genres": [
-        "Action",
-        "Biography",
-        "Drama",
-        "History",
-        "War"
-      ],
-      "rating": {
-        "aggregateRating": 7.6,
-        "voteCount": 22348
+        "voteCount": 23994
       }
     },
     {
@@ -678,7 +587,7 @@
       ],
       "rating": {
         "aggregateRating": 5.7,
-        "voteCount": 21575
+        "voteCount": 21677
       }
     },
     {
@@ -693,7 +602,7 @@
       ],
       "rating": {
         "aggregateRating": 5.8,
-        "voteCount": 21468
+        "voteCount": 21617
       }
     },
     {
@@ -710,7 +619,7 @@
       ],
       "rating": {
         "aggregateRating": 6.2,
-        "voteCount": 21258
+        "voteCount": 21270
       }
     },
     {
@@ -727,40 +636,7 @@
       ],
       "rating": {
         "aggregateRating": 6,
-        "voteCount": 21196
-      }
-    },
-    {
-      "id": "tt30387012",
-      "primaryTitle": "Border 2",
-      "originalTitle": "Border 2",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYjdhNmE4MTItYjZlYi00MjQ2LTliOGMtN2ViMzU0M2M3ODMyXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 12000,
-      "genres": [
-        "Action",
-        "Drama",
-        "War"
-      ],
-      "rating": {
-        "aggregateRating": 5.9,
-        "voteCount": 20817
-      }
-    },
-    {
-      "id": "tt39328471",
-      "primaryTitle": "Shatak",
-      "originalTitle": "Shatak",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjg0NWVlZDYtMTAyZC00YmEyLTg2OWUtNjYzNmY4MzlmOGNmXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 6720,
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "rating": {
-        "aggregateRating": 3.5,
-        "voteCount": 20356
+        "voteCount": 21211
       }
     },
     {
@@ -777,23 +653,7 @@
       ],
       "rating": {
         "aggregateRating": 4,
-        "voteCount": 20355
-      }
-    },
-    {
-      "id": "tt29540862",
-      "primaryTitle": "Bhooth Bangla",
-      "originalTitle": "Bhooth Bangla",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BN2Y3NjRhYmMtNWVjMy00ZmE1LWJkNGYtNDY3Y2I3NjkzOGE0XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 10380,
-      "genres": [
-        "Comedy",
-        "Horror"
-      ],
-      "rating": {
-        "aggregateRating": 6,
-        "voteCount": 18167
+        "voteCount": 20363
       }
     },
     {
@@ -810,7 +670,7 @@
       ],
       "rating": {
         "aggregateRating": 7.6,
-        "voteCount": 18030
+        "voteCount": 18087
       }
     },
     {
@@ -828,7 +688,7 @@
       ],
       "rating": {
         "aggregateRating": 5.8,
-        "voteCount": 17909
+        "voteCount": 17914
       }
     },
     {
@@ -847,7 +707,7 @@
       ],
       "rating": {
         "aggregateRating": 7.3,
-        "voteCount": 17397
+        "voteCount": 17443
       }
     },
     {
@@ -866,54 +726,6 @@
       }
     },
     {
-      "id": "tt39122441",
-      "primaryTitle": "Jockey",
-      "originalTitle": "Jockey",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZGQxMThlNWEtZGE2My00OTVmLTljYjAtZTc2NWRkYzhhNTAxXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 8820,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama"
-      ],
-      "rating": {
-        "aggregateRating": 8.1,
-        "voteCount": 14696
-      }
-    },
-    {
-      "id": "tt31852278",
-      "primaryTitle": "Subedaar",
-      "originalTitle": "Subedaar",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWVjYWQzZTQtNTI2MC00NzlmLTg3MjUtNGZlYzViNjcyODU4XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 8700,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "rating": {
-        "aggregateRating": 6.1,
-        "voteCount": 13636
-      }
-    },
-    {
-      "id": "tt33088887",
-      "primaryTitle": "Hotspot 2 Much",
-      "originalTitle": "Hotspot 2 Much",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYjA4MTQxZjUtMDI2NC00ZWE1LWFiMzAtYTIwYTA5ZTYyMjgzXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 7200,
-      "genres": [
-        "Comedy"
-      ],
-      "rating": {
-        "aggregateRating": 5.5,
-        "voteCount": 13550
-      }
-    },
-    {
       "id": "tt26678938",
       "primaryTitle": "Pretty Lethal",
       "originalTitle": "Pretty Lethal",
@@ -927,41 +739,7 @@
       ],
       "rating": {
         "aggregateRating": 5.8,
-        "voteCount": 13505
-      }
-    },
-    {
-      "id": "tt27681354",
-      "primaryTitle": "In the Grey",
-      "originalTitle": "In the Grey",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTZkMTIzMTItMTQwZS00MTg4LWE0MTEtM2NiNmUzYjRmMGUxXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 5880,
-      "genres": [
-        "Action",
-        "Drama",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 6.3,
-        "voteCount": 13018
-      }
-    },
-    {
-      "id": "tt41110859",
-      "primaryTitle": "Aakhri Sawal",
-      "originalTitle": "Aakhri Sawal",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTJkODZiOWItOTY2YS00N2VkLTlkZjEtYzMyZTQzZGQ1ZDcxXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 9000,
-      "genres": [
-        "Drama",
-        "History",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 6.6,
-        "voteCount": 12847
+        "voteCount": 13512
       }
     },
     {
@@ -979,7 +757,7 @@
       ],
       "rating": {
         "aggregateRating": 4.7,
-        "voteCount": 12703
+        "voteCount": 12715
       }
     },
     {
@@ -997,25 +775,7 @@
       ],
       "rating": {
         "aggregateRating": 7.2,
-        "voteCount": 12045
-      }
-    },
-    {
-      "id": "tt23790696",
-      "primaryTitle": "The Raja Saab",
-      "originalTitle": "The RajaSaab",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 11400,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Fantasy",
-        "Horror"
-      ],
-      "rating": {
-        "aggregateRating": 3.1,
-        "voteCount": 11689
+        "voteCount": 12565
       }
     },
     {
@@ -1031,25 +791,23 @@
       ],
       "rating": {
         "aggregateRating": 6.7,
-        "voteCount": 11071
+        "voteCount": 11077
       }
     },
     {
-      "id": "tt27673536",
-      "primaryTitle": "Mardaani 3",
-      "originalTitle": "Mardaani 3",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjU1OWM4OGEtMGYzNi00MTNmLThjOGUtMjRlZmI5YjM4ODIxXkEyXkFqcGc@._V1_.jpg",
+      "id": "tt32093575",
+      "primaryTitle": "Scary Movie",
+      "originalTitle": "Scary Movie",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTJjMDk1NzAtMGVmNS00NTFmLWFlOTQtZDk5M2I2NjZiZDdlXkEyXkFqcGc@._V1_.jpg",
       "startYear": 2026,
-      "runtimeSeconds": 7740,
+      "runtimeSeconds": 5760,
       "genres": [
-        "Action",
-        "Crime",
-        "Drama",
-        "Thriller"
+        "Comedy",
+        "Horror"
       ],
       "rating": {
-        "aggregateRating": 6.1,
-        "voteCount": 10690
+        "aggregateRating": 5.6,
+        "voteCount": 10142
       }
     },
     {
@@ -1068,7 +826,7 @@
       ],
       "rating": {
         "aggregateRating": 4.5,
-        "voteCount": 10132
+        "voteCount": 10137
       }
     }
   ]
