@@ -1,1 +1,0 @@
-{"root":["./vite.config.ts","./scripts/build-data.ts","./api/guess.ts","./api/round.ts","./api/_lib/data.ts","./api/_lib/hints.ts","./api/_lib/obfuscate.ts","./api/_lib/ratelimit.ts","./api/_lib/scrub.ts","./api/_lib/token.ts"],"version":"5.9.3"}
