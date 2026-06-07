@@ -3,8 +3,8 @@
  * bundles them with the function — they live in /server, never in /public, so
  * the browser can never fetch plots or tomorrow's answer.
  */
-import privateData from '../../server/data/movies.private.json';
-import dailyData from '../../server/data/daily.json';
+import privateData from '../../server/data/movies.private.json' with { type: 'json' };
+import dailyData from '../../server/data/daily.json' with { type: 'json' };
 
 export interface PrivateMovie {
   id: string;
