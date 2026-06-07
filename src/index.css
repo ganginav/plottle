@@ -1,0 +1,95 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Theme palettes ──────────────────────────────────────────────────────────
+   Both themes are designed independently (not inverted). Tokens are raw
+   "R G B" triples so Tailwind's `rgb(var(--x) / <alpha-value>)` opacity works. */
+@layer base {
+  :root {
+    /* Light — warm "cinema paper" */
+    --bg: 250 247 240;
+    --bg-elev: 255 255 255;
+    --surface: 255 255 255;
+    --surface-2: 244 239 230;
+    --border: 230 222 209;
+    --text: 30 27 38;
+    --muted: 92 86 104;
+    --faint: 142 134 158;
+    --brand: 194 110 16;
+    --brand-soft: 250 240 222;
+    --accent: 200 60 110;
+    --good: 22 150 70;
+    --bad: 206 44 44;
+  }
+
+  .dark {
+    /* Dark — deep plum "movie night" */
+    --bg: 14 13 20;
+    --bg-elev: 22 20 31;
+    --surface: 28 25 38;
+    --surface-2: 38 34 52;
+    --border: 52 47 70;
+    --text: 244 241 250;
+    --muted: 167 160 186;
+    --faint: 120 113 140;
+    --brand: 245 184 64;
+    --brand-soft: 40 33 20;
+    --accent: 236 110 158;
+    --good: 74 210 128;
+    --bad: 248 113 113;
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-bg text-text font-sans antialiased;
+    /* Subtle vignette + marquee glow so the page reads as a "theatre". */
+    background-image:
+      radial-gradient(120% 80% at 50% -10%, rgb(var(--brand) / 0.10), transparent 60%),
+      radial-gradient(90% 60% at 100% 0%, rgb(var(--accent) / 0.06), transparent 55%);
+    background-attachment: fixed;
+    min-height: 100dvh;
+  }
+
+  /* Smooth, scoped transition when toggling theme. */
+  .theme-transition * {
+    transition: background-color 0.35s ease, border-color 0.35s ease, color 0.35s ease;
+  }
+
+  ::selection {
+    background: rgb(var(--brand) / 0.3);
+  }
+
+  * {
+    scrollbar-color: rgb(var(--border)) transparent;
+  }
+}
+
+@layer components {
+  .card {
+    @apply rounded-2xl border border-border bg-surface shadow-card;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold
+      transition-all duration-150 focus-visible:outline-none focus-visible:ring-2
+      focus-visible:ring-brand/60 focus-visible:ring-offset-2 focus-visible:ring-offset-bg
+      disabled:cursor-not-allowed disabled:opacity-50 active:scale-[0.98];
+  }
+
+  .btn-primary {
+    @apply btn bg-brand text-bg hover:brightness-110 shadow-glow;
+  }
+
+  .btn-ghost {
+    @apply btn border border-border bg-surface text-text hover:bg-surface-2;
+  }
+
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full border border-border bg-surface-2
+      px-3 py-1 text-xs font-semibold text-muted;
+  }
+}

@@ -1,0 +1,1075 @@
+{
+  "generatedAt": "2026-06-07T19:54:04.276Z",
+  "canonicalYearSpan": [
+    2026,
+    2026
+  ],
+  "movies": [
+    {
+      "id": "tt12042730",
+      "primaryTitle": "Project Hail Mary",
+      "originalTitle": "Project Hail Mary",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 9360,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 8.3,
+        "voteCount": 344743
+      }
+    },
+    {
+      "id": "tt32642706",
+      "primaryTitle": "The Rip",
+      "originalTitle": "The Rip",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjIzMGY3MzMtNDVlMS00MGU1LTkyNTItMmI4Mzk0Mjg3OTBkXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6780,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.8,
+        "voteCount": 132106
+      }
+    },
+    {
+      "id": "tt8036976",
+      "primaryTitle": "Send Help",
+      "originalTitle": "Send Help",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTgxOWY5NTMtYjdiNi00NTIyLTkwMTQtMWNjM2IzYTU0ODgyXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6780,
+      "genres": [
+        "Adventure",
+        "Horror",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 117814
+      }
+    },
+    {
+      "id": "tt11378946",
+      "primaryTitle": "Michael",
+      "originalTitle": "Michael",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 7620,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7.7,
+        "voteCount": 111778
+      }
+    },
+    {
+      "id": "tt32141377",
+      "primaryTitle": "28 Years Later: The Bone Temple",
+      "originalTitle": "28 Years Later: The Bone Temple",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZGU2M2Y1YTItMWYxNS00NDYxLThhOTYtNjNhOWUzNjA3MTYwXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6540,
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.2,
+        "voteCount": 106035
+      }
+    },
+    {
+      "id": "tt15940132",
+      "primaryTitle": "War Machine",
+      "originalTitle": "War Machine",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMmM1ZTc5ZTYtOTM2My00MjBmLWE5NzktYzkyYzdlYWE3ZDAzXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6360,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.3,
+        "voteCount": 101870
+      }
+    },
+    {
+      "id": "tt16431404",
+      "primaryTitle": "Apex",
+      "originalTitle": "Apex",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjUzODE2ZWYtMDdiMS00ZTA0LWI4MzEtNDkyODNiNmIwMWY1XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 5700,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.1,
+        "voteCount": 85194
+      }
+    },
+    {
+      "id": "tt15574124",
+      "primaryTitle": "Peaky Blinders: The Immortal Man",
+      "originalTitle": "Peaky Blinders: The Immortal Man",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTdlNTNjNjctYTg2MC00NTFlLTliNTctODFiZjZmNWRkYTVlXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6720,
+      "genres": [
+        "Crime",
+        "Drama",
+        "History"
+      ],
+      "rating": {
+        "aggregateRating": 6.5,
+        "voteCount": 80377
+      }
+    },
+    {
+      "id": "tt32430579",
+      "primaryTitle": "Crime 101",
+      "originalTitle": "Crime 101",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZThlN2M4ZTUtYTU3Mi00MDE5LWFhYWUtNjkxMWEwNjUwNDVhXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 8400,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.8,
+        "voteCount": 79676
+      }
+    },
+    {
+      "id": "tt32897959",
+      "primaryTitle": "Wuthering Heights",
+      "originalTitle": "Wuthering Heights",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjNkNmNhOWUtZTFmOC00YmQ4LWEzYWQtZjdlMGU0MGRkN2YzXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 8160,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 6.1,
+        "voteCount": 78447
+      }
+    },
+    {
+      "id": "tt33071426",
+      "primaryTitle": "The Drama",
+      "originalTitle": "The Drama",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTcwOGZhYmItYTg3ZS00NjUwLWJiMmQtMjU5YjEwYWY0NmNkXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6300,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 7.2,
+        "voteCount": 70961
+      }
+    },
+    {
+      "id": "tt31050594",
+      "primaryTitle": "Mercy",
+      "originalTitle": "Mercy",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWJmYjcwMTMtMDU1ZC00ZGI5LTlmZDAtODI3NDA2ZTE5ZGVlXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 5940,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.2,
+        "voteCount": 69615
+      }
+    },
+    {
+      "id": "tt35291758",
+      "primaryTitle": "Melania",
+      "originalTitle": "Melania",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWQxMDYxNDgtOWM4OS00YjA0LTg5MzAtMjY1NjlmOTZlMGJkXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6240,
+      "genres": [
+        "Documentary"
+      ],
+      "rating": {
+        "aggregateRating": 1.6,
+        "voteCount": 68880
+      }
+    },
+    {
+      "id": "tt39139925",
+      "primaryTitle": "Dhurandhar: The Revenge",
+      "originalTitle": "Dhurandhar: The Revenge",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzdkNjAxNWMtNWY3My00NTI1LTg2YWQtOGI3MDA0NzdhMjEyXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 14100,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.3,
+        "voteCount": 58770
+      }
+    },
+    {
+      "id": "tt28650488",
+      "primaryTitle": "The Super Mario Galaxy Movie",
+      "originalTitle": "The Super Mario Galaxy Movie",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMGIzMGI4OWYtNzdkMy00MjJlLWJiMDMtZjY1Y2UwMzQ0YzY3XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 5880,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "rating": {
+        "aggregateRating": 6.3,
+        "voteCount": 57771
+      }
+    },
+    {
+      "id": "tt30825738",
+      "primaryTitle": "Star Wars: The Mandalorian and Grogu",
+      "originalTitle": "The Mandalorian and Grogu",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYjRkYzAzNjktZmRhMy00NjRiLWE0OTMtYmRmMTE5NDkzY2NlXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 7920,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Family",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 7,
+        "voteCount": 55721
+      }
+    },
+    {
+      "id": "tt27047903",
+      "primaryTitle": "Scream 7",
+      "originalTitle": "Scream 7",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzk2YzRjYmItNTA5Mi00ODczLTljYzUtOWE1ZDFkODhlZWJlXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6840,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5.5,
+        "voteCount": 55409
+      }
+    },
+    {
+      "id": "tt33612209",
+      "primaryTitle": "The Devil Wears Prada 2",
+      "originalTitle": "The Devil Wears Prada 2",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZmM3ZDU3ODItZmY5Yi00OTQ2LWE5OTctZTA5NDBhMWJkOGY3XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 7140,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 55318
+      }
+    },
+    {
+      "id": "tt26443616",
+      "primaryTitle": "Hoppers",
+      "originalTitle": "Hoppers",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzRiMzZlMTMtNmU3OC00MDUwLThmNDUtMTBjZmQ3MWQ4NTljXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6240,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 54525
+      }
+    },
+    {
+      "id": "tt33046197",
+      "primaryTitle": "The Wrecking Crew",
+      "originalTitle": "The Wrecking Crew",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZDcyMmYxZmMtMjg5MC00NWMzLTgyNDEtOGI2MWEzMmFmNmVmXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 7440,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 6.4,
+        "voteCount": 49304
+      }
+    },
+    {
+      "id": "tt26657236",
+      "primaryTitle": "Backrooms",
+      "originalTitle": "Backrooms",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6600,
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 48837
+      }
+    },
+    {
+      "id": "tt22740896",
+      "primaryTitle": "People We Meet on Vacation",
+      "originalTitle": "People We Meet on Vacation",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BM2ZmZWEyOGItYzVjYi00N2Q3LTlmNDItYmUwZjFhMTJmMzgzXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 7020,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 45269
+      }
+    },
+    {
+      "id": "tt33978029",
+      "primaryTitle": "Ready or Not 2: Here I Come",
+      "originalTitle": "Ready or Not: Here I Come",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZTM3N2EyMTEtNDhkMi00ZjNiLWI0MWUtOGViMjExODY3YTJhXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6480,
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.5,
+        "voteCount": 41609
+      }
+    },
+    {
+      "id": "tt17490712",
+      "primaryTitle": "Mortal Kombat II",
+      "originalTitle": "Mortal Kombat II",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTg2YWNkN2EtMzc1Ny00ZTBhLWFmYTItMmMyNzhjNjhhNmVhXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6960,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 40049
+      }
+    },
+    {
+      "id": "tt14850054",
+      "primaryTitle": "Greenland 2: Migration",
+      "originalTitle": "Greenland 2: Migration",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWEzM2IzZTMtYzA2Yi00NjY0LWE1ODktNTllZmI3ZTI1MzBmXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 5880,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5.2,
+        "voteCount": 38314
+      }
+    },
+    {
+      "id": "tt32612507",
+      "primaryTitle": "Lee Cronin's The Mummy",
+      "originalTitle": "The Mummy",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNWQ1NzI2YTUtN2E0ZS00YzVmLTkxNjktMWIzNTYwMzkyOTU0XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 8040,
+      "genres": [
+        "Horror"
+      ],
+      "rating": {
+        "aggregateRating": 6.2,
+        "voteCount": 36967
+      }
+    },
+    {
+      "id": "tt33100314",
+      "primaryTitle": "Remarkably Bright Creatures",
+      "originalTitle": "Remarkably Bright Creatures",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzM3OTRlZDktYTk0OS00OTlmLWFhMjctMTZiODU4N2RiYzhhXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6660,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 7.7,
+        "voteCount": 32363
+      }
+    },
+    {
+      "id": "tt32357218",
+      "primaryTitle": "Shelter",
+      "originalTitle": "Shelter",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzI2ODY3MzQtYzllNy00YWM1LWExZTgtOGIwNjk2MmE2MmY2XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6420,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.1,
+        "voteCount": 32253
+      }
+    },
+    {
+      "id": "tt30851137",
+      "primaryTitle": "The Bride!",
+      "originalTitle": "The Bride!",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BM2VmMDVlNzgtNThhZC00ZGMwLTg4MmEtZTUzNmRiYTkxYzUyXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 7560,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 5.7,
+        "voteCount": 30146
+      }
+    },
+    {
+      "id": "tt32362890",
+      "primaryTitle": "Thrash",
+      "originalTitle": "Thrash",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BODMxNjdhMWQtMmJhYS00MDc1LTkyYzAtYTgzZTFhMmI1ODEyXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 5160,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5,
+        "voteCount": 29193
+      }
+    },
+    {
+      "id": "tt15464188",
+      "primaryTitle": "Ikkis",
+      "originalTitle": "Ikkis",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjhjOGFkNGYtNmE3Yi00YmM0LWE4MDUtZDY0NDg3OTEwYWRmXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 8640,
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama",
+        "History",
+        "War"
+      ],
+      "rating": {
+        "aggregateRating": 6.1,
+        "voteCount": 26633
+      }
+    },
+    {
+      "id": "tt35672862",
+      "primaryTitle": "Hokum",
+      "originalTitle": "Hokum",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6420,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.9,
+        "voteCount": 26181
+      }
+    },
+    {
+      "id": "tt4357198",
+      "primaryTitle": "How to Make a Killing",
+      "originalTitle": "How to Make a Killing",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTkwY2JjMWYtOGU4YS00ZTg0LWIzYzUtZDkxNDE5NWNkNWM1XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6300,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.5,
+        "voteCount": 25928
+      }
+    },
+    {
+      "id": "tt31728330",
+      "primaryTitle": "They Will Kill You",
+      "originalTitle": "They Will Kill You",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYjg5ZjQ0ZGQtMmY1NS00NTgyLTlkZWYtMDhlNzE3ZGY5ZDdmXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 5640,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Horror",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.3,
+        "voteCount": 25469
+      }
+    },
+    {
+      "id": "tt27564844",
+      "primaryTitle": "Iron Lung",
+      "originalTitle": "Iron Lung",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzkxOGU1YmQtNDc0Ni00M2JhLWFlZjktODMzOGU3MjQxMTQ0XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 7500,
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 6,
+        "voteCount": 24610
+      }
+    },
+    {
+      "id": "tt27613895",
+      "primaryTitle": "GOAT",
+      "originalTitle": "Goat",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzE5OTJkOGMtYWFiNi00NTlkLWE3ZWItY2ZlNjkyOWVhMjMyXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6000,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Sport"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 23971
+      }
+    },
+    {
+      "id": "tt31969779",
+      "primaryTitle": "O' Romeo",
+      "originalTitle": "O' Romeo",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZTQzZTgyODItYzg5My00YzhhLWFlYzctYTljM2E5NWI5NDcyXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 10680,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5.2,
+        "voteCount": 23681
+      }
+    },
+    {
+      "id": "tt31390893",
+      "primaryTitle": "Raja Shivaji",
+      "originalTitle": "Raja Shivaji",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZmEwNTU4MzEtY2Y4Ni00ZWRmLThhMGMtMDE5MTZmMDIzMGVjXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 11700,
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama",
+        "History",
+        "War"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 22348
+      }
+    },
+    {
+      "id": "tt34378301",
+      "primaryTitle": "Tom Clancy's Jack Ryan: Ghost War",
+      "originalTitle": "Jack Ryan: Ghost War",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZGY2MDU2Y2YtOTkzNC00MTY4LThkODYtNWIxNmRlZmRjZWJlXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6300,
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5.7,
+        "voteCount": 21575
+      }
+    },
+    {
+      "id": "tt34611082",
+      "primaryTitle": "Ladies First",
+      "originalTitle": "Ladies First",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjBhMjk2NmQtY2JhOC00OTIzLTkzZjItNjA2NWM3OTkzNzA5XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 5400,
+      "genres": [
+        "Comedy"
+      ],
+      "rating": {
+        "aggregateRating": 5.8,
+        "voteCount": 21468
+      }
+    },
+    {
+      "id": "tt27552099",
+      "primaryTitle": "Mike & Nick & Nick & Alice",
+      "originalTitle": "Mike & Nick & Nick & Alice",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZDBiNjIyNjUtNWZlYy00MGU4LWFjNDUtMGExYTZlNmNhZTY4XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6420,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "rating": {
+        "aggregateRating": 6.2,
+        "voteCount": 21258
+      }
+    },
+    {
+      "id": "tt8879928",
+      "primaryTitle": "Cold Storage",
+      "originalTitle": "Cold Storage",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWFlZmZiNWMtY2U4Mi00ZGY1LTgzZTItMTkxZjczNjAyNGI0XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 5940,
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 6,
+        "voteCount": 21196
+      }
+    },
+    {
+      "id": "tt30387012",
+      "primaryTitle": "Border 2",
+      "originalTitle": "Border 2",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYjdhNmE4MTItYjZlYi00MjQ2LTliOGMtN2ViMzU0M2M3ODMyXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 12000,
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "rating": {
+        "aggregateRating": 5.9,
+        "voteCount": 20817
+      }
+    },
+    {
+      "id": "tt39328471",
+      "primaryTitle": "Shatak",
+      "originalTitle": "Shatak",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjg0NWVlZDYtMTAyZC00YmEyLTg2OWUtNjYzNmY4MzlmOGNmXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6720,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "rating": {
+        "aggregateRating": 3.5,
+        "voteCount": 20356
+      }
+    },
+    {
+      "id": "tt22868010",
+      "primaryTitle": "Return to Silent Hill",
+      "originalTitle": "Return to Silent Hill",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWVjYjU0ZTAtNGVlNi00NGM1LTgzZjctNTZjMjAyYTc4N2VlXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6360,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 4,
+        "voteCount": 20355
+      }
+    },
+    {
+      "id": "tt29540862",
+      "primaryTitle": "Bhooth Bangla",
+      "originalTitle": "Bhooth Bangla",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BN2Y3NjRhYmMtNWVjMy00ZmE1LWJkNGYtNDY3Y2I3NjkzOGE0XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 10380,
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "rating": {
+        "aggregateRating": 6,
+        "voteCount": 18167
+      }
+    },
+    {
+      "id": "tt32565993",
+      "primaryTitle": "The Sheep Detectives",
+      "originalTitle": "The Sheep Detectives",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTFmZWI4YmMtNmQ0ZC00ZGQwLTk1OWEtZjAyZmIzOGY0MGFiXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6540,
+      "genres": [
+        "Comedy",
+        "Family",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 18030
+      }
+    },
+    {
+      "id": "tt14181714",
+      "primaryTitle": "The Bluff",
+      "originalTitle": "The Bluff",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZDVlYWM2YjAtZTUxMS00OWEwLWI4YWMtNmFhMjU3MDY4OGJkXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6180,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "History"
+      ],
+      "rating": {
+        "aggregateRating": 5.8,
+        "voteCount": 17909
+      }
+    },
+    {
+      "id": "tt29552248",
+      "primaryTitle": "Swapped",
+      "originalTitle": "Swapped",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNWFlNWM2Y2YtY2VhOC00MWFiLWExNWYtYWViYzJhMDQyMTJiXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 5880,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 17397
+      }
+    },
+    {
+      "id": "tt39792948",
+      "primaryTitle": "Louis Theroux: Inside the Manosphere",
+      "originalTitle": "Louis Theroux: Inside the Manosphere",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWRkNGFlYTgtYjkyNi00ZGVlLWIwNDEtZTdlYmZkNDNjNjU3XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 5460,
+      "genres": [
+        "Documentary"
+      ],
+      "rating": {
+        "aggregateRating": 6.9,
+        "voteCount": 16476
+      }
+    },
+    {
+      "id": "tt39122441",
+      "primaryTitle": "Jockey",
+      "originalTitle": "Jockey",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZGQxMThlNWEtZGE2My00OTVmLTljYjAtZTc2NWRkYzhhNTAxXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 8820,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 8.1,
+        "voteCount": 14696
+      }
+    },
+    {
+      "id": "tt31852278",
+      "primaryTitle": "Subedaar",
+      "originalTitle": "Subedaar",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWVjYWQzZTQtNTI2MC00NzlmLTg3MjUtNGZlYzViNjcyODU4XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 8700,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 6.1,
+        "voteCount": 13636
+      }
+    },
+    {
+      "id": "tt33088887",
+      "primaryTitle": "Hotspot 2 Much",
+      "originalTitle": "Hotspot 2 Much",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYjA4MTQxZjUtMDI2NC00ZWE1LWFiMzAtYTIwYTA5ZTYyMjgzXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 7200,
+      "genres": [
+        "Comedy"
+      ],
+      "rating": {
+        "aggregateRating": 5.5,
+        "voteCount": 13550
+      }
+    },
+    {
+      "id": "tt26678938",
+      "primaryTitle": "Pretty Lethal",
+      "originalTitle": "Pretty Lethal",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTRmMTE4MmYtOWRmNi00ZDJjLWFmY2UtNTliMzlkNTUzNDRjXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 5280,
+      "genres": [
+        "Action",
+        "Horror",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5.8,
+        "voteCount": 13505
+      }
+    },
+    {
+      "id": "tt27681354",
+      "primaryTitle": "In the Grey",
+      "originalTitle": "In the Grey",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTZkMTIzMTItMTQwZS00MTg4LWE0MTEtM2NiNmUzYjRmMGUxXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 5880,
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.3,
+        "voteCount": 13018
+      }
+    },
+    {
+      "id": "tt41110859",
+      "primaryTitle": "Aakhri Sawal",
+      "originalTitle": "Aakhri Sawal",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTJkODZiOWItOTY2YS00N2VkLTlkZjEtYzMyZTQzZGQ1ZDcxXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 9000,
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 12847
+      }
+    },
+    {
+      "id": "tt26735622",
+      "primaryTitle": "Balls Up",
+      "originalTitle": "Balls Up",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjJlMDFmOWMtY2NhZS00MzAwLWFiOWQtNzBiZDNiOWRiMDA4XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6240,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime",
+        "Sport"
+      ],
+      "rating": {
+        "aggregateRating": 4.7,
+        "voteCount": 12703
+      }
+    },
+    {
+      "id": "tt0427340",
+      "primaryTitle": "Masters of the Universe",
+      "originalTitle": "Masters of the Universe",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTJjYTFkM2EtZjBmNy00OTk2LTg0NTAtNzYxYzlmNjhkMzQ5XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 8400,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 7.2,
+        "voteCount": 12045
+      }
+    },
+    {
+      "id": "tt23790696",
+      "primaryTitle": "The Raja Saab",
+      "originalTitle": "The RajaSaab",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 11400,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ],
+      "rating": {
+        "aggregateRating": 3.1,
+        "voteCount": 11689
+      }
+    },
+    {
+      "id": "tt32306991",
+      "primaryTitle": "Solo Mio",
+      "originalTitle": "Solo Mio",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYmU0ZTExNGMtZGEyMS00NzQ0LTk1MGUtZjlkZTAxZDRlNWI1XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 5760,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 11071
+      }
+    },
+    {
+      "id": "tt27673536",
+      "primaryTitle": "Mardaani 3",
+      "originalTitle": "Mardaani 3",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjU1OWM4OGEtMGYzNi00MTNmLThjOGUtMjRlZmI5YjM4ODIxXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 7740,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.1,
+        "voteCount": 10690
+      }
+    },
+    {
+      "id": "tt23724682",
+      "primaryTitle": "Outcome",
+      "originalTitle": "Outcome",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzFmMWExMmMtZmYwZi00ZDIyLTlhYTUtZmM3ZTBlZWNjOWY4XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 4980,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 4.5,
+        "voteCount": 10132
+      }
+    }
+  ]
+}
