@@ -63,6 +63,15 @@ export interface DailyStats {
   distribution: number[];
 }
 
+/** Worldwide aggregate for one daily puzzle (from /api/stats). */
+export interface CommunityStats {
+  enabled: boolean;
+  played: number;
+  solved: number;
+  byGuess: number[]; // byGuess[i] = solves on guess i+1
+  fails: number;
+}
+
 export interface DailyResult {
   date: string;
   solved: boolean;

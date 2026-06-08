@@ -40,8 +40,16 @@ The browser must never read the answer, even with devtools.
 
 `scripts/build-data.ts` is the **only** thing that calls imdbapi.dev. It writes the three
 data files (committed). The GitHub Action refreshes them weekly and commits; Vercel deploys
-on push. App code never fetches imdbapi.dev. To change year span / vote floors, edit the
-constants at the top of `build-data.ts` and re-run `build:data`.
+on push. App code never fetches imdbapi.dev. To change year span / vote floors / origin
+filter, edit the constants at the top of `build-data.ts` and re-run `build:data`. Current:
+2023–2026, US-origin, both vote floors at 30k (`FETCH_MIN_VOTES` / `DAILY_MIN_VOTES`).
+
+## Community daily stats (optional)
+
+`/api/stats` keeps a worldwide tally of daily outcomes in an optional Upstash Redis store
+(`api/_lib/kv.ts`; enabled only if `KV_REST_API_URL`/`KV_REST_API_TOKEN` are set — else the
+"Today worldwide" panel hides). Self-reported/unauthenticated; the client submits once per
+day (deduped in localStorage). The daily has **no give-up** button (`allowGiveUp={false}`).
 
 ## Conventions
 

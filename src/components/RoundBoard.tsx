@@ -13,11 +13,13 @@ interface Props {
   onGuess: (m: PublicMovie) => void;
   onGiveUp: () => void;
   onRetry: () => void;
+  /** Show the "give up & reveal" button (off for the daily — no cheating the streak). */
+  allowGiveUp?: boolean;
   /** Mode-specific actions rendered inside the result card (share / next / …). */
   resultActions: (info: { answer: PublicMovie; solved: boolean; guessUsed: number; points: number }) => React.ReactNode;
 }
 
-export function RoundBoard({ round, movies, moviesById, onGuess, onGiveUp, onRetry, resultActions }: Props) {
+export function RoundBoard({ round, movies, moviesById, onGuess, onGiveUp, onRetry, allowGiveUp = true, resultActions }: Props) {
   if (round.status === 'loading') return <LoadingState label="Loading round…" />;
   if (round.status === 'error') return <ErrorState message={round.error ?? 'Round failed to load.'} onRetry={onRetry} />;
 
@@ -40,16 +42,18 @@ export function RoundBoard({ round, movies, moviesById, onGuess, onGiveUp, onRet
             submitting={round.submitting}
             onGuess={onGuess}
           />
-          <div className="flex justify-center">
-            <button
-              type="button"
-              onClick={onGiveUp}
-              disabled={round.submitting}
-              className="text-xs font-semibold text-faint underline-offset-2 hover:text-muted hover:underline"
-            >
-              Give up &amp; reveal
-            </button>
-          </div>
+          {allowGiveUp && (
+            <div className="flex justify-center">
+              <button
+                type="button"
+                onClick={onGiveUp}
+                disabled={round.submitting}
+                className="text-xs font-semibold text-faint underline-offset-2 hover:text-muted hover:underline"
+              >
+                Give up &amp; reveal
+              </button>
+            </div>
+          )}
         </div>
       </div>
     );

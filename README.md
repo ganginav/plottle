@@ -48,7 +48,10 @@ data script (below) if you want to refresh it.
 1. Push the repo to GitHub and **Import Project** in Vercel (framework auto-detects as Vite).
 2. Add an env var **`HMAC_SECRET`** (Production + Preview). Generate one with
    `openssl rand -hex 32`.
-3. Deploy. Vercel runs `npm run build` (app only — see note) and auto-routes `/api/*.ts`.
+3. *(Optional)* Add a **KV / Upstash Redis** store in the Vercel **Storage** tab to turn
+   on the "Today worldwide" daily stats. It auto-injects `KV_REST_API_URL` /
+   `KV_REST_API_TOKEN`. Without it, the feature is simply hidden.
+4. Deploy. Vercel runs `npm run build` (app only — see note) and auto-routes `/api/*.ts`.
 
 The build command is **app-only** on purpose: deploys never call imdbapi.dev, so a
 flaky upstream API can't break a deploy. Data is committed and refreshed out-of-band
@@ -132,6 +135,18 @@ The browser can never read the answer, even with devtools open:
   own game; it doesn't expose answers to anyone else.
 - Add a **KV store** (still not a relational DB) only if you later want to hard-enforce the
   7-guess cap, guarantee one-play-per-day, or run a shared leaderboard.
+- The **community daily stats** (below) use such a KV store, but only as an aggregate
+  counter — the tallies are self-reported and unauthenticated (each client submits once
+  per day, deduped locally), so they could be inflated, like any account-less Wordle stat.
+
+### Community daily stats (`/api/stats`, optional)
+
+Once the daily is decided, the result screen shows a **"Today worldwide"** panel: how many
+people played, what % solved it, and the distribution of solves by guess number (your row
+highlighted). This is the one feature that needs shared state, so it's backed by an
+optional **Upstash Redis** store (a hash per date: `g1..g7` for a solve on that guess,
+`fail` for a loss). If no store is configured, `/api/stats` reports `enabled: false` and the
+panel is hidden — nothing else changes. See **Deploy → step 3**.
 
 ---
 
@@ -142,8 +157,8 @@ All in `scripts/build-data.ts`, then re-run `npm run build:data`:
 ```ts
 const CANONICAL_START_YEAR = 2023;   // widen the span, e.g. 2000
 const CANONICAL_END_YEAR   = 2026;
-const FETCH_MIN_VOTES      = 10_000; // guess/autocomplete universe floor
-const DAILY_MIN_VOTES      = 25_000; // daily-answer eligibility floor
+const FETCH_MIN_VOTES      = 30_000; // guess/autocomplete universe floor
+const DAILY_MIN_VOTES      = 30_000; // daily-answer eligibility floor
 const ALLOWED_ORIGIN_COUNTRIES = new Set(['US']); // add 'GB', 'CA', … to widen
 ```
 
@@ -159,7 +174,8 @@ deferred; both modes draw from the full pool.)
 api/
   round.ts            GET  /api/round?mode=daily|endless   (scrubbed plot, no answer)
   guess.ts            POST /api/guess                      (validates, owns the answer)
-  _lib/               scrub · token (HMAC) · data · hints · ratelimit
+  stats.ts            GET/POST /api/stats                  (optional worldwide daily tally)
+  _lib/               scrub · token (HMAC) · data · hints · obfuscate · ratelimit · kv
 scripts/build-data.ts the only imdbapi.dev consumer → JSON snapshots + daily schedule
 public/data/          movies.public.json (no plots, CDN-served)
 server/data/          movies.private.json + daily.json (server-only, bundled)
