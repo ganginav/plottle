@@ -21,10 +21,10 @@ import { fileURLToPath } from 'node:url';
 const CANONICAL_START_YEAR = 2023;
 const CANONICAL_END_YEAR = 2026;
 
-/** API query floor — kept low so the guess/autocomplete universe is broad. */
-const FETCH_MIN_VOTES = 10_000;
+/** API query floor — the whole movie pool / autocomplete / Endless answers. */
+const FETCH_MIN_VOTES = 30_000;
 /** Daily-answer floor — only well-known films become the shared daily puzzle. */
-const DAILY_MIN_VOTES = 25_000;
+const DAILY_MIN_VOTES = 30_000;
 
 /** First date in the daily schedule. Past dates are never changed (append-only). */
 const DAILY_EPOCH = '2026-06-01';

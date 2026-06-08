@@ -79,6 +79,10 @@ export const setTheme = (t: 'dark' | 'light'): void => write(K.theme, t);
 export const hasSeenHowTo = (): boolean => read(K.seenHowTo, false);
 export const markSeenHowTo = (): void => write(K.seenHowTo, true);
 
+/** Whether this player's outcome for `date` was already sent to the community tally. */
+export const hasSubmittedCommunity = (date: string): boolean => read(`pg:submitted:${date}`, false);
+export const markSubmittedCommunity = (date: string): void => write(`pg:submitted:${date}`, true);
+
 function previousDate(date: string): string {
   const d = new Date(date + 'T00:00:00Z');
   d.setUTCDate(d.getUTCDate() - 1);

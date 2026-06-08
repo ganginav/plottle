@@ -1,8 +1,15 @@
 import { useEffect, useRef, useState } from 'react';
-import type { PublicMovie, DailyResult, DailyStats } from '../lib/types';
+import type { PublicMovie, DailyResult, DailyStats, CommunityStats } from '../lib/types';
 import { useRound } from '../hooks/useRound';
 import { scoreForGuess } from '../lib/scoring';
-import { getDailyResult, getDailyStats, recordDailyResult } from '../lib/storage';
+import {
+  getDailyResult,
+  getDailyStats,
+  recordDailyResult,
+  hasSubmittedCommunity,
+  markSubmittedCommunity,
+} from '../lib/storage';
+import { fetchDailyCommunity, submitDailyCommunity } from '../lib/api';
 import { RoundBoard } from '../components/RoundBoard';
 import { ResultCard } from '../components/ResultCard';
 import { DailyResultActions } from '../components/DailyResultActions';
@@ -22,7 +29,9 @@ export function DailyMode({ movies, moviesById, onKeepPlaying }: Props) {
 
   const [result, setResult] = useState<DailyResult | null>(alreadyPlayed ? stored : null);
   const [stats, setStats] = useState<DailyStats>(() => getDailyStats());
+  const [community, setCommunity] = useState<CommunityStats | null>(null);
   const recorded = useRef(alreadyPlayed);
+  const communitySynced = useRef(false);
 
   // Only fetch a round if today hasn't been played yet.
   const { state, guess, giveUp, reload } = useRound('daily', moviesById, 0, !alreadyPlayed);
@@ -44,6 +53,26 @@ export function DailyMode({ movies, moviesById, onKeepPlaying }: Props) {
     }
   }, [state.status, state.answer, state.guessesMade, state.guessedIds, today]);
 
+  // Sync the worldwide tally once the day is decided: submit our outcome the first
+  // time (deduped per date), otherwise just read the current aggregate.
+  useEffect(() => {
+    if (!result || communitySynced.current) return;
+    communitySynced.current = true;
+    (async () => {
+      if (hasSubmittedCommunity(result.date)) {
+        setCommunity(await fetchDailyCommunity(result.date));
+      } else {
+        const agg = await submitDailyCommunity({
+          date: result.date,
+          solved: result.solved,
+          guessUsed: result.guessUsed,
+        });
+        markSubmittedCommunity(result.date);
+        setCommunity(agg);
+      }
+    })();
+  }, [result]);
+
   // Already played (on load or after finishing): show the locked result.
   if (result) {
     const answer = moviesById.get(result.answerId);
@@ -64,6 +93,7 @@ export function DailyMode({ movies, moviesById, onKeepPlaying }: Props) {
         <DailyResultActions
           result={result}
           stats={stats}
+          community={community}
           guessesAllowed={state.guessesAllowed || 7}
           onKeepPlaying={onKeepPlaying}
         />
@@ -80,6 +110,7 @@ export function DailyMode({ movies, moviesById, onKeepPlaying }: Props) {
       onGuess={guess}
       onGiveUp={giveUp}
       onRetry={reload}
+      allowGiveUp={false}
       resultActions={() => null /* completion is handled by the effect above */}
     />
   );
