@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T12:31:16.290Z",
+  "generatedAt": "2026-06-30T01:34:42.632Z",
   "canonicalYearSpan": [
     2023,
     2026
@@ -19,7 +19,7 @@
       ],
       "rating": {
         "aggregateRating": 8.2,
-        "voteCount": 1051249
+        "voteCount": 1055084
       }
     },
     {
@@ -37,7 +37,7 @@
       ],
       "rating": {
         "aggregateRating": 8.4,
-        "voteCount": 763046
+        "voteCount": 766665
       }
     },
     {
@@ -54,7 +54,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 688797
+        "voteCount": 691843
       }
     },
     {
@@ -72,7 +72,7 @@
       ],
       "rating": {
         "aggregateRating": 7.5,
-        "voteCount": 573604
+        "voteCount": 574667
       }
     },
     {
@@ -92,7 +92,7 @@
       ],
       "rating": {
         "aggregateRating": 8.5,
-        "voteCount": 530620
+        "voteCount": 531808
       }
     },
     {
@@ -107,7 +107,7 @@
       ],
       "rating": {
         "aggregateRating": 7.5,
-        "voteCount": 493228
+        "voteCount": 495652
       }
     },
     {
@@ -126,7 +126,7 @@
       ],
       "rating": {
         "aggregateRating": 7.9,
-        "voteCount": 474377
+        "voteCount": 474972
       }
     },
     {
@@ -143,7 +143,7 @@
       ],
       "rating": {
         "aggregateRating": 7,
-        "voteCount": 420411
+        "voteCount": 423608
       }
     },
     {
@@ -155,12 +155,11 @@
       "runtimeSeconds": 9660,
       "genres": [
         "Crime",
-        "Drama",
         "Thriller"
       ],
       "rating": {
         "aggregateRating": 7.6,
-        "voteCount": 419446
+        "voteCount": 421323
       }
     },
     {
@@ -177,7 +176,7 @@
       ],
       "rating": {
         "aggregateRating": 7.6,
-        "voteCount": 413569
+        "voteCount": 413956
       }
     },
     {
@@ -195,7 +194,7 @@
       ],
       "rating": {
         "aggregateRating": 7.7,
-        "voteCount": 410549
+        "voteCount": 413519
       }
     },
     {
@@ -214,39 +213,7 @@
       ],
       "rating": {
         "aggregateRating": 2.2,
-        "voteCount": 396436
-      }
-    },
-    {
-      "id": "tt26581740",
-      "primaryTitle": "Weapons",
-      "originalTitle": "Weapons",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 7680,
-      "genres": [
-        "Horror",
-        "Mystery"
-      ],
-      "rating": {
-        "aggregateRating": 7.4,
-        "voteCount": 371187
-      }
-    },
-    {
-      "id": "tt16311594",
-      "primaryTitle": "F1: The Movie",
-      "originalTitle": "F1",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNGI0MDI4NjEtOWU3ZS00ODQyLWFhYTgtNGYxM2ZkM2Q2YjE3XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 9300,
-      "genres": [
-        "Drama",
-        "Sport"
-      ],
-      "rating": {
-        "aggregateRating": 7.6,
-        "voteCount": 369065
+        "voteCount": 396583
       }
     },
     {
@@ -264,7 +231,39 @@
       ],
       "rating": {
         "aggregateRating": 8.2,
-        "voteCount": 366529
+        "voteCount": 376866
+      }
+    },
+    {
+      "id": "tt26581740",
+      "primaryTitle": "Weapons",
+      "originalTitle": "Weapons",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 7680,
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 7.4,
+        "voteCount": 373572
+      }
+    },
+    {
+      "id": "tt16311594",
+      "primaryTitle": "F1: The Movie",
+      "originalTitle": "F1",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNGI0MDI4NjEtOWU3ZS00ODQyLWFhYTgtNGYxM2ZkM2Q2YjE3XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 9300,
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 370908
       }
     },
     {
@@ -281,7 +280,7 @@
       ],
       "rating": {
         "aggregateRating": 7.6,
-        "voteCount": 328976
+        "voteCount": 329186
       }
     },
     {
@@ -298,7 +297,7 @@
       ],
       "rating": {
         "aggregateRating": 7.5,
-        "voteCount": 322162
+        "voteCount": 322549
       }
     },
     {
@@ -316,7 +315,7 @@
       ],
       "rating": {
         "aggregateRating": 7.4,
-        "voteCount": 321239
+        "voteCount": 322479
       }
     },
     {
@@ -334,7 +333,7 @@
       ],
       "rating": {
         "aggregateRating": 7.5,
-        "voteCount": 308944
+        "voteCount": 309207
       }
     },
     {
@@ -350,7 +349,7 @@
       ],
       "rating": {
         "aggregateRating": 6.4,
-        "voteCount": 303267
+        "voteCount": 303792
       }
     },
     {
@@ -369,7 +368,7 @@
       ],
       "rating": {
         "aggregateRating": 7,
-        "voteCount": 297604
+        "voteCount": 297973
       }
     },
     {
@@ -386,7 +385,7 @@
       ],
       "rating": {
         "aggregateRating": 7.4,
-        "voteCount": 290428
+        "voteCount": 293770
       }
     },
     {
@@ -403,7 +402,7 @@
       ],
       "rating": {
         "aggregateRating": 7.1,
-        "voteCount": 289708
+        "voteCount": 290070
       }
     },
     {
@@ -423,7 +422,7 @@
       ],
       "rating": {
         "aggregateRating": 7.1,
-        "voteCount": 283971
+        "voteCount": 284861
       }
     },
     {
@@ -439,7 +438,7 @@
       ],
       "rating": {
         "aggregateRating": 7.4,
-        "voteCount": 276342
+        "voteCount": 279314
       }
     },
     {
@@ -457,7 +456,7 @@
       ],
       "rating": {
         "aggregateRating": 7.2,
-        "voteCount": 274846
+        "voteCount": 275041
       }
     },
     {
@@ -468,7 +467,6 @@
       "startYear": 2023,
       "runtimeSeconds": 7440,
       "genres": [
-        "Animation",
         "Action",
         "Adventure",
         "Comedy",
@@ -476,7 +474,7 @@
       ],
       "rating": {
         "aggregateRating": 6,
-        "voteCount": 271374
+        "voteCount": 271724
       }
     },
     {
@@ -493,7 +491,7 @@
       ],
       "rating": {
         "aggregateRating": 7,
-        "voteCount": 270237
+        "voteCount": 270434
       }
     },
     {
@@ -510,7 +508,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 268817
+        "voteCount": 269953
       }
     },
     {
@@ -527,7 +525,7 @@
       ],
       "rating": {
         "aggregateRating": 7.1,
-        "voteCount": 268259
+        "voteCount": 268681
       }
     },
     {
@@ -536,14 +534,14 @@
       "originalTitle": "Saltburn",
       "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjk4NGE3MWItMDRhMy00YzhiLTk0MGUtZDlkNmQxYWIxYzc2XkEyXkFqcGc@._V1_.jpg",
       "startYear": 2023,
-      "runtimeSeconds": 7860,
+      "runtimeSeconds": 7800,
       "genres": [
         "Drama",
         "Thriller"
       ],
       "rating": {
         "aggregateRating": 7,
-        "voteCount": 267726
+        "voteCount": 267965
       }
     },
     {
@@ -561,7 +559,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 266988
+        "voteCount": 267562
       }
     },
     {
@@ -577,7 +575,7 @@
       ],
       "rating": {
         "aggregateRating": 7.9,
-        "voteCount": 264432
+        "voteCount": 267178
       }
     },
     {
@@ -598,7 +596,7 @@
       ],
       "rating": {
         "aggregateRating": 7.5,
-        "voteCount": 253343
+        "voteCount": 253882
       }
     },
     {
@@ -616,7 +614,24 @@
       ],
       "rating": {
         "aggregateRating": 6.7,
-        "voteCount": 251617
+        "voteCount": 252316
+      }
+    },
+    {
+      "id": "tt1262426",
+      "primaryTitle": "Wicked",
+      "originalTitle": "Wicked",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 9600,
+      "genres": [
+        "Fantasy",
+        "Musical",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 249202
       }
     },
     {
@@ -634,7 +649,7 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 248625
+        "voteCount": 248946
       }
     },
     {
@@ -653,24 +668,7 @@
       ],
       "rating": {
         "aggregateRating": 7.3,
-        "voteCount": 247008
-      }
-    },
-    {
-      "id": "tt1262426",
-      "primaryTitle": "Wicked",
-      "originalTitle": "Wicked",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 9600,
-      "genres": [
-        "Fantasy",
-        "Musical",
-        "Romance"
-      ],
-      "rating": {
-        "aggregateRating": 7.3,
-        "voteCount": 246212
+        "voteCount": 248039
       }
     },
     {
@@ -687,24 +685,7 @@
       ],
       "rating": {
         "aggregateRating": 6.4,
-        "voteCount": 243406
-      }
-    },
-    {
-      "id": "tt1462764",
-      "primaryTitle": "Indiana Jones and the Dial of Destiny",
-      "originalTitle": "Indiana Jones and the Dial of Destiny",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYWJlOWE2ZjEtZGRhOC00M2YzLWFkZGEtYzIzZWI2Zjg3NWYxXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 9240,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
-      "rating": {
-        "aggregateRating": 6.5,
-        "voteCount": 234062
+        "voteCount": 243616
       }
     },
     {
@@ -721,7 +702,24 @@
       ],
       "rating": {
         "aggregateRating": 7.1,
-        "voteCount": 233837
+        "voteCount": 234360
+      }
+    },
+    {
+      "id": "tt1462764",
+      "primaryTitle": "Indiana Jones and the Dial of Destiny",
+      "originalTitle": "Indiana Jones and the Dial of Destiny",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYWJlOWE2ZjEtZGRhOC00M2YzLWFkZGEtYzIzZWI2Zjg3NWYxXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 9240,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 6.5,
+        "voteCount": 234261
       }
     },
     {
@@ -737,7 +735,7 @@
       ],
       "rating": {
         "aggregateRating": 7,
-        "voteCount": 229457
+        "voteCount": 229992
       }
     },
     {
@@ -755,7 +753,7 @@
       ],
       "rating": {
         "aggregateRating": 8.2,
-        "voteCount": 227841
+        "voteCount": 228574
       }
     },
     {
@@ -773,7 +771,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 227140
+        "voteCount": 227548
       }
     },
     {
@@ -792,7 +790,7 @@
       ],
       "rating": {
         "aggregateRating": 6.7,
-        "voteCount": 224622
+        "voteCount": 224801
       }
     },
     {
@@ -809,7 +807,7 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 218517
+        "voteCount": 219368
       }
     },
     {
@@ -825,7 +823,7 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 218031
+        "voteCount": 218300
       }
     },
     {
@@ -843,7 +841,7 @@
       ],
       "rating": {
         "aggregateRating": 7.5,
-        "voteCount": 211734
+        "voteCount": 212036
       }
     },
     {
@@ -861,7 +859,7 @@
       ],
       "rating": {
         "aggregateRating": 7.4,
-        "voteCount": 201567
+        "voteCount": 203487
       }
     },
     {
@@ -879,7 +877,7 @@
       ],
       "rating": {
         "aggregateRating": 5.8,
-        "voteCount": 199400
+        "voteCount": 199883
       }
     },
     {
@@ -898,7 +896,7 @@
       ],
       "rating": {
         "aggregateRating": 6.7,
-        "voteCount": 199176
+        "voteCount": 199576
       }
     },
     {
@@ -915,7 +913,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 196988
+        "voteCount": 197222
       }
     },
     {
@@ -931,7 +929,7 @@
       ],
       "rating": {
         "aggregateRating": 7.4,
-        "voteCount": 196048
+        "voteCount": 196192
       }
     },
     {
@@ -948,7 +946,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 195515
+        "voteCount": 195746
       }
     },
     {
@@ -967,7 +965,7 @@
       ],
       "rating": {
         "aggregateRating": 6.9,
-        "voteCount": 194509
+        "voteCount": 194698
       }
     },
     {
@@ -984,7 +982,7 @@
       ],
       "rating": {
         "aggregateRating": 7.6,
-        "voteCount": 191787
+        "voteCount": 194061
       }
     },
     {
@@ -1004,7 +1002,7 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 187548
+        "voteCount": 187689
       }
     },
     {
@@ -1021,7 +1019,24 @@
       ],
       "rating": {
         "aggregateRating": 6.2,
-        "voteCount": 187073
+        "voteCount": 187337
+      }
+    },
+    {
+      "id": "tt7160372",
+      "primaryTitle": "The Zone of Interest",
+      "originalTitle": "The Zone of Interest",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjk4MTQ3MGEtZmI4OS00N2NhLWI5ZjgtYWE5ZWVkZGExYTQ1XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 6300,
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 186446
       }
     },
     {
@@ -1041,7 +1056,7 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 185190
+        "voteCount": 185408
       }
     },
     {
@@ -1058,7 +1073,7 @@
       ],
       "rating": {
         "aggregateRating": 5.2,
-        "voteCount": 184618
+        "voteCount": 184855
       }
     },
     {
@@ -1075,24 +1090,7 @@
       ],
       "rating": {
         "aggregateRating": 5.6,
-        "voteCount": 184012
-      }
-    },
-    {
-      "id": "tt7160372",
-      "primaryTitle": "The Zone of Interest",
-      "originalTitle": "The Zone of Interest",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjk4MTQ3MGEtZmI4OS00N2NhLWI5ZjgtYWE5ZWVkZGExYTQ1XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 6300,
-      "genres": [
-        "Drama",
-        "History",
-        "War"
-      ],
-      "rating": {
-        "aggregateRating": 7.3,
-        "voteCount": 183735
+        "voteCount": 184396
       }
     },
     {
@@ -1109,7 +1107,7 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 181692
+        "voteCount": 181940
       }
     },
     {
@@ -1125,7 +1123,26 @@
       ],
       "rating": {
         "aggregateRating": 6.9,
-        "voteCount": 180243
+        "voteCount": 180906
+      }
+    },
+    {
+      "id": "tt1757678",
+      "primaryTitle": "Avatar: Fire and Ash",
+      "originalTitle": "Avatar: Fire and Ash",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 11820,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 7.2,
+        "voteCount": 180494
       }
     },
     {
@@ -1143,7 +1160,7 @@
       ],
       "rating": {
         "aggregateRating": 7,
-        "voteCount": 180187
+        "voteCount": 180445
       }
     },
     {
@@ -1162,7 +1179,7 @@
       ],
       "rating": {
         "aggregateRating": 7.2,
-        "voteCount": 178942
+        "voteCount": 179035
       }
     },
     {
@@ -1180,7 +1197,7 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 178488
+        "voteCount": 178724
       }
     },
     {
@@ -1197,25 +1214,7 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 175973
-      }
-    },
-    {
-      "id": "tt1757678",
-      "primaryTitle": "Avatar: Fire and Ash",
-      "originalTitle": "Avatar: Fire and Ash",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 11820,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Sci-Fi"
-      ],
-      "rating": {
-        "aggregateRating": 7.2,
-        "voteCount": 175785
+        "voteCount": 176224
       }
     },
     {
@@ -1231,7 +1230,7 @@
       ],
       "rating": {
         "aggregateRating": 6.1,
-        "voteCount": 175034
+        "voteCount": 175335
       }
     },
     {
@@ -1247,24 +1246,7 @@
       ],
       "rating": {
         "aggregateRating": 7.8,
-        "voteCount": 174479
-      }
-    },
-    {
-      "id": "tt12263384",
-      "primaryTitle": "Extraction II",
-      "originalTitle": "Extraction 2",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZGQwNDdhODAtY2Y0Ni00YzFhLTk1OGUtY2RkMDAzNzBmZjAxXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 7320,
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 7,
-        "voteCount": 174069
+        "voteCount": 174715
       }
     },
     {
@@ -1283,7 +1265,24 @@
       ],
       "rating": {
         "aggregateRating": 6.7,
-        "voteCount": 173916
+        "voteCount": 174333
+      }
+    },
+    {
+      "id": "tt12263384",
+      "primaryTitle": "Extraction II",
+      "originalTitle": "Extraction 2",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZGQwNDdhODAtY2Y0Ni00YzFhLTk1OGUtY2RkMDAzNzBmZjAxXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 7320,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7,
+        "voteCount": 174208
       }
     },
     {
@@ -1294,7 +1293,6 @@
       "startYear": 2024,
       "runtimeSeconds": 8700,
       "genres": [
-        "Animation",
         "Action",
         "Adventure",
         "Drama",
@@ -1303,7 +1301,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 169816
+        "voteCount": 169965
       }
     },
     {
@@ -1318,7 +1316,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 169450
+        "voteCount": 169718
       }
     },
     {
@@ -1336,7 +1334,7 @@
       ],
       "rating": {
         "aggregateRating": 5.8,
-        "voteCount": 167909
+        "voteCount": 168155
       }
     },
     {
@@ -1356,41 +1354,7 @@
       ],
       "rating": {
         "aggregateRating": 7,
-        "voteCount": 165625
-      }
-    },
-    {
-      "id": "tt9619824",
-      "primaryTitle": "Final Destination: Bloodlines",
-      "originalTitle": "Final Destination Bloodlines",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzc3OWFhZWItMTE2Yy00N2NmLTg1YTktNGVlNDY0ODQ5YjNlXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 6600,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 6.7,
-        "voteCount": 165220
-      }
-    },
-    {
-      "id": "tt10676048",
-      "primaryTitle": "The Marvels",
-      "originalTitle": "The Marvels",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzczOWM4MzItMWMyOS00ZDczLWIxMzctNzBmYTgzOTI1MzI3XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 6300,
-      "genres": [
-        "Animation",
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
-      "rating": {
-        "aggregateRating": 5.4,
-        "voteCount": 165117
+        "voteCount": 165947
       }
     },
     {
@@ -1407,7 +1371,40 @@
       ],
       "rating": {
         "aggregateRating": 6.7,
-        "voteCount": 162899
+        "voteCount": 165850
+      }
+    },
+    {
+      "id": "tt9619824",
+      "primaryTitle": "Final Destination: Bloodlines",
+      "originalTitle": "Final Destination Bloodlines",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzc3OWFhZWItMTE2Yy00N2NmLTg1YTktNGVlNDY0ODQ5YjNlXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 6600,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 165817
+      }
+    },
+    {
+      "id": "tt10676048",
+      "primaryTitle": "The Marvels",
+      "originalTitle": "The Marvels",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzczOWM4MzItMWMyOS00ZDczLWIxMzctNzBmYTgzOTI1MzI3XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 6300,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 5.4,
+        "voteCount": 165379
       }
     },
     {
@@ -1424,7 +1421,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 162701
+        "voteCount": 162861
       }
     },
     {
@@ -1443,7 +1440,7 @@
       ],
       "rating": {
         "aggregateRating": 5.6,
-        "voteCount": 161904
+        "voteCount": 162709
       }
     },
     {
@@ -1460,7 +1457,23 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 161290
+        "voteCount": 161769
+      }
+    },
+    {
+      "id": "tt21823606",
+      "primaryTitle": "A Real Pain",
+      "originalTitle": "A Real Pain",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BODY2YWYwM2YtZTVlNC00MjgyLTgzYTgtNmFmYWE5ZmY1MDM5XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 5400,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 7,
+        "voteCount": 160162
       }
     },
     {
@@ -1471,7 +1484,6 @@
       "startYear": 2024,
       "runtimeSeconds": 7380,
       "genres": [
-        "Animation",
         "Action",
         "Adventure",
         "Comedy",
@@ -1480,7 +1492,7 @@
       ],
       "rating": {
         "aggregateRating": 6.2,
-        "voteCount": 160030
+        "voteCount": 160114
       }
     },
     {
@@ -1499,23 +1511,7 @@
       ],
       "rating": {
         "aggregateRating": 6,
-        "voteCount": 157809
-      }
-    },
-    {
-      "id": "tt21823606",
-      "primaryTitle": "A Real Pain",
-      "originalTitle": "A Real Pain",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BODY2YWYwM2YtZTVlNC00MjgyLTgzYTgtNmFmYWE5ZmY1MDM5XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 5400,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "rating": {
-        "aggregateRating": 7,
-        "voteCount": 157430
+        "voteCount": 158109
       }
     },
     {
@@ -1533,7 +1529,7 @@
       ],
       "rating": {
         "aggregateRating": 7.2,
-        "voteCount": 156114
+        "voteCount": 157330
       }
     },
     {
@@ -1552,7 +1548,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 156025
+        "voteCount": 156607
       }
     },
     {
@@ -1567,7 +1563,7 @@
       ],
       "rating": {
         "aggregateRating": 7.2,
-        "voteCount": 153619
+        "voteCount": 156398
       }
     },
     {
@@ -1584,7 +1580,7 @@
       ],
       "rating": {
         "aggregateRating": 6.4,
-        "voteCount": 153262
+        "voteCount": 153429
       }
     },
     {
@@ -1600,7 +1596,7 @@
       ],
       "rating": {
         "aggregateRating": 7.5,
-        "voteCount": 149621
+        "voteCount": 152235
       }
     },
     {
@@ -1615,7 +1611,7 @@
       ],
       "rating": {
         "aggregateRating": 7,
-        "voteCount": 148826
+        "voteCount": 149016
       }
     },
     {
@@ -1634,7 +1630,7 @@
       ],
       "rating": {
         "aggregateRating": 5.7,
-        "voteCount": 147033
+        "voteCount": 147203
       }
     },
     {
@@ -1645,7 +1641,6 @@
       "startYear": 2023,
       "runtimeSeconds": 7800,
       "genres": [
-        "Animation",
         "Action",
         "Adventure",
         "Comedy",
@@ -1654,7 +1649,7 @@
       ],
       "rating": {
         "aggregateRating": 5.9,
-        "voteCount": 146034
+        "voteCount": 146186
       }
     },
     {
@@ -1671,7 +1666,7 @@
       ],
       "rating": {
         "aggregateRating": 6.7,
-        "voteCount": 145617
+        "voteCount": 146045
       }
     },
     {
@@ -1689,63 +1684,7 @@
       ],
       "rating": {
         "aggregateRating": 6.4,
-        "voteCount": 145416
-      }
-    },
-    {
-      "id": "tt15679400",
-      "primaryTitle": "Knock at the Cabin",
-      "originalTitle": "Knock at the Cabin",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzU1ODIzYjAtNjUzNi00YmNjLWI5ZDAtNDgzOWY3MDU1OThlXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 6000,
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 6.1,
-        "voteCount": 142030
-      }
-    },
-    {
-      "id": "tt22687790",
-      "primaryTitle": "A Haunting in Venice",
-      "originalTitle": "A Haunting in Venice",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTgwODdhZTMtYTFiNy00NzI1LTkwZWEtNjI2NWZiMzFmMjJlXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 6180,
-      "genres": [
-        "Crime",
-        "Drama",
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 6.5,
-        "voteCount": 141982
-      }
-    },
-    {
-      "id": "tt14998742",
-      "primaryTitle": "Rebel Moon - Part One: A Child of Fire",
-      "originalTitle": "Rebel Moon - Part One: A Child of Fire",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYTRmOTk2ZDYtY2Q3Mi00MGYwLWFjNDQtYTliODc3NzM1ZjBlXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 7980,
-      "genres": [
-        "Animation",
-        "Action",
-        "Adventure",
-        "Drama",
-        "Fantasy",
-        "Sci-Fi"
-      ],
-      "rating": {
-        "aggregateRating": 5.6,
-        "voteCount": 141140
+        "voteCount": 145527
       }
     },
     {
@@ -1765,7 +1704,62 @@
       ],
       "rating": {
         "aggregateRating": 7.3,
-        "voteCount": 140785
+        "voteCount": 142139
+      }
+    },
+    {
+      "id": "tt15679400",
+      "primaryTitle": "Knock at the Cabin",
+      "originalTitle": "Knock at the Cabin",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzU1ODIzYjAtNjUzNi00YmNjLWI5ZDAtNDgzOWY3MDU1OThlXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 6000,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.1,
+        "voteCount": 142102
+      }
+    },
+    {
+      "id": "tt22687790",
+      "primaryTitle": "A Haunting in Venice",
+      "originalTitle": "A Haunting in Venice",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTgwODdhZTMtYTFiNy00NzI1LTkwZWEtNjI2NWZiMzFmMjJlXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 6180,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.5,
+        "voteCount": 142084
+      }
+    },
+    {
+      "id": "tt14998742",
+      "primaryTitle": "Rebel Moon - Part One: A Child of Fire",
+      "originalTitle": "Rebel Moon - Part One: A Child of Fire",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYTRmOTk2ZDYtY2Q3Mi00MGYwLWFjNDQtYTliODc3NzM1ZjBlXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 7980,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 5.6,
+        "voteCount": 141224
       }
     },
     {
@@ -1782,7 +1776,7 @@
       ],
       "rating": {
         "aggregateRating": 5.4,
-        "voteCount": 140204
+        "voteCount": 140443
       }
     },
     {
@@ -1799,7 +1793,26 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 138887
+        "voteCount": 139510
+      }
+    },
+    {
+      "id": "tt11378946",
+      "primaryTitle": "Michael",
+      "originalTitle": "Michael",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 7620,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "Music",
+        "Musical"
+      ],
+      "rating": {
+        "aggregateRating": 7.5,
+        "voteCount": 139392
       }
     },
     {
@@ -1818,7 +1831,7 @@
       ],
       "rating": {
         "aggregateRating": 7.6,
-        "voteCount": 137990
+        "voteCount": 138094
       }
     },
     {
@@ -1840,7 +1853,7 @@
       ],
       "rating": {
         "aggregateRating": 7.4,
-        "voteCount": 136874
+        "voteCount": 137445
       }
     },
     {
@@ -1858,26 +1871,7 @@
       ],
       "rating": {
         "aggregateRating": 7.1,
-        "voteCount": 136466
-      }
-    },
-    {
-      "id": "tt14539740",
-      "primaryTitle": "Godzilla X Kong: The New Empire",
-      "originalTitle": "Godzilla x Kong: The New Empire",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTY0N2MzODctY2ExYy00OWYxLTkyNDItMTVhZGIxZjliZjU5XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 6900,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 6,
-        "voteCount": 136445
+        "voteCount": 136624
       }
     },
     {
@@ -1897,7 +1891,26 @@
       ],
       "rating": {
         "aggregateRating": 7.7,
-        "voteCount": 136120
+        "voteCount": 136598
+      }
+    },
+    {
+      "id": "tt14539740",
+      "primaryTitle": "Godzilla X Kong: The New Empire",
+      "originalTitle": "Godzilla x Kong: The New Empire",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTY0N2MzODctY2ExYy00OWYxLTkyNDItMTVhZGIxZjliZjU5XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 6900,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6,
+        "voteCount": 136583
       }
     },
     {
@@ -1916,25 +1929,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 133868
-      }
-    },
-    {
-      "id": "tt11378946",
-      "primaryTitle": "Michael",
-      "originalTitle": "Michael",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 7620,
-      "genres": [
-        "Biography",
-        "Drama",
-        "History",
-        "Music"
-      ],
-      "rating": {
-        "aggregateRating": 7.5,
-        "voteCount": 133285
+        "voteCount": 134675
       }
     },
     {
@@ -1951,7 +1946,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 131938
+        "voteCount": 132086
       }
     },
     {
@@ -1962,14 +1957,13 @@
       "startYear": 2023,
       "runtimeSeconds": 7620,
       "genres": [
-        "Animation",
         "Action",
         "Adventure",
         "Sci-Fi"
       ],
       "rating": {
         "aggregateRating": 6,
-        "voteCount": 131887
+        "voteCount": 132017
       }
     },
     {
@@ -1988,7 +1982,7 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 131397
+        "voteCount": 131741
       }
     },
     {
@@ -2004,7 +1998,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 131100
+        "voteCount": 131341
       }
     },
     {
@@ -2021,7 +2015,24 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 130091
+        "voteCount": 130481
+      }
+    },
+    {
+      "id": "tt8036976",
+      "primaryTitle": "Send Help",
+      "originalTitle": "Send Help",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTgxOWY5NTMtYjdiNi00NTIyLTkwMTQtMWNjM2IzYTU0ODgyXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6780,
+      "genres": [
+        "Adventure",
+        "Horror",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 128769
       }
     },
     {
@@ -2039,7 +2050,24 @@
       ],
       "rating": {
         "aggregateRating": 7,
-        "voteCount": 127440
+        "voteCount": 127697
+      }
+    },
+    {
+      "id": "tt37287335",
+      "primaryTitle": "Obsession",
+      "originalTitle": "Obsession",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 6480,
+      "genres": [
+        "Horror",
+        "Romance",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.1,
+        "voteCount": 127623
       }
     },
     {
@@ -2056,7 +2084,7 @@
       ],
       "rating": {
         "aggregateRating": 5.9,
-        "voteCount": 127166
+        "voteCount": 127257
       }
     },
     {
@@ -2076,24 +2104,7 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 126744
-      }
-    },
-    {
-      "id": "tt8036976",
-      "primaryTitle": "Send Help",
-      "originalTitle": "Send Help",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTgxOWY5NTMtYjdiNi00NTIyLTkwMTQtMWNjM2IzYTU0ODgyXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 6780,
-      "genres": [
-        "Adventure",
-        "Horror",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 6.7,
-        "voteCount": 125835
+        "voteCount": 126977
       }
     },
     {
@@ -2109,7 +2120,7 @@
       ],
       "rating": {
         "aggregateRating": 6.7,
-        "voteCount": 124565
+        "voteCount": 125466
       }
     },
     {
@@ -2129,7 +2140,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 121117
+        "voteCount": 121411
       }
     },
     {
@@ -2147,7 +2158,7 @@
       ],
       "rating": {
         "aggregateRating": 6.4,
-        "voteCount": 120337
+        "voteCount": 120431
       }
     },
     {
@@ -2158,14 +2169,13 @@
       "startYear": 2024,
       "runtimeSeconds": 6600,
       "genres": [
-        "Animation",
         "Action",
         "Adventure",
         "Fantasy"
       ],
       "rating": {
         "aggregateRating": 6.1,
-        "voteCount": 120161
+        "voteCount": 120322
       }
     },
     {
@@ -2182,7 +2192,7 @@
       ],
       "rating": {
         "aggregateRating": 7.5,
-        "voteCount": 120061
+        "voteCount": 120174
       }
     },
     {
@@ -2198,7 +2208,7 @@
       ],
       "rating": {
         "aggregateRating": 6.1,
-        "voteCount": 119591
+        "voteCount": 119864
       }
     },
     {
@@ -2214,7 +2224,7 @@
       ],
       "rating": {
         "aggregateRating": 6.4,
-        "voteCount": 119338
+        "voteCount": 119601
       }
     },
     {
@@ -2231,7 +2241,7 @@
       ],
       "rating": {
         "aggregateRating": 7.3,
-        "voteCount": 119019
+        "voteCount": 119292
       }
     },
     {
@@ -2242,7 +2252,6 @@
       "startYear": 2023,
       "runtimeSeconds": 7440,
       "genres": [
-        "Animation",
         "Action",
         "Adventure",
         "Fantasy",
@@ -2250,7 +2259,7 @@
       ],
       "rating": {
         "aggregateRating": 5.6,
-        "voteCount": 118978
+        "voteCount": 119179
       }
     },
     {
@@ -2261,7 +2270,6 @@
       "startYear": 2023,
       "runtimeSeconds": 7620,
       "genres": [
-        "Animation",
         "Action",
         "Adventure",
         "Sci-Fi",
@@ -2269,7 +2277,7 @@
       ],
       "rating": {
         "aggregateRating": 5.9,
-        "voteCount": 117429
+        "voteCount": 117589
       }
     },
     {
@@ -2285,7 +2293,7 @@
       ],
       "rating": {
         "aggregateRating": 4.1,
-        "voteCount": 115911
+        "voteCount": 116042
       }
     },
     {
@@ -2304,7 +2312,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 114560
+        "voteCount": 114691
       }
     },
     {
@@ -2321,7 +2329,7 @@
       ],
       "rating": {
         "aggregateRating": 7.1,
-        "voteCount": 113089
+        "voteCount": 113354
       }
     },
     {
@@ -2339,7 +2347,7 @@
       ],
       "rating": {
         "aggregateRating": 6.4,
-        "voteCount": 111816
+        "voteCount": 113130
       }
     },
     {
@@ -2357,24 +2365,24 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 111692
+        "voteCount": 111792
       }
     },
     {
-      "id": "tt37287335",
-      "primaryTitle": "Obsession",
-      "originalTitle": "Obsession",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 6480,
+      "id": "tt32141377",
+      "primaryTitle": "28 Years Later: The Bone Temple",
+      "originalTitle": "28 Years Later: The Bone Temple",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZGU2M2Y1YTItMWYxNS00NDYxLThhOTYtNjNhOWUzNjA3MTYwXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6540,
       "genres": [
         "Horror",
-        "Romance",
+        "Sci-Fi",
         "Thriller"
       ],
       "rating": {
-        "aggregateRating": 8.1,
-        "voteCount": 110990
+        "aggregateRating": 7.2,
+        "voteCount": 111777
       }
     },
     {
@@ -2392,24 +2400,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 110389
-      }
-    },
-    {
-      "id": "tt32141377",
-      "primaryTitle": "28 Years Later: The Bone Temple",
-      "originalTitle": "28 Years Later: The Bone Temple",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZGU2M2Y1YTItMWYxNS00NDYxLThhOTYtNjNhOWUzNjA3MTYwXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 6540,
-      "genres": [
-        "Horror",
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 7.2,
-        "voteCount": 109428
+        "voteCount": 110475
       }
     },
     {
@@ -2424,7 +2415,7 @@
       ],
       "rating": {
         "aggregateRating": 7.5,
-        "voteCount": 108998
+        "voteCount": 109522
       }
     },
     {
@@ -2441,7 +2432,7 @@
       ],
       "rating": {
         "aggregateRating": 6.7,
-        "voteCount": 108468
+        "voteCount": 108647
       }
     },
     {
@@ -2459,7 +2450,7 @@
       ],
       "rating": {
         "aggregateRating": 7.4,
-        "voteCount": 108298
+        "voteCount": 108453
       }
     },
     {
@@ -2477,7 +2468,7 @@
       ],
       "rating": {
         "aggregateRating": 5.4,
-        "voteCount": 107196
+        "voteCount": 107280
       }
     },
     {
@@ -2495,7 +2486,24 @@
       ],
       "rating": {
         "aggregateRating": 6.1,
-        "voteCount": 106485
+        "voteCount": 106604
+      }
+    },
+    {
+      "id": "tt15940132",
+      "primaryTitle": "War Machine",
+      "originalTitle": "War Machine",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMmM1ZTc5ZTYtOTM2My00MjBmLWE5NzktYzkyYzdlYWE3ZDAzXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6360,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.3,
+        "voteCount": 105906
       }
     },
     {
@@ -2513,24 +2521,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 105230
-      }
-    },
-    {
-      "id": "tt15940132",
-      "primaryTitle": "War Machine",
-      "originalTitle": "War Machine",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMmM1ZTc5ZTYtOTM2My00MjBmLWE5NzktYzkyYzdlYWE3ZDAzXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 6360,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 6.3,
-        "voteCount": 104792
+        "voteCount": 105414
       }
     },
     {
@@ -2548,7 +2539,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 104233
+        "voteCount": 104335
       }
     },
     {
@@ -2565,7 +2556,7 @@
       ],
       "rating": {
         "aggregateRating": 6.2,
-        "voteCount": 103618
+        "voteCount": 104142
       }
     },
     {
@@ -2583,27 +2574,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 103431
-      }
-    },
-    {
-      "id": "tt9224104",
-      "primaryTitle": "Meg 2: The Trench",
-      "originalTitle": "Meg 2: The Trench",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOGNiOTFkYTUtMDdiMi00YmJlLTkzOTAtMGViYWRhZjY3ODhkXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 6960,
-      "genres": [
-        "Animation",
-        "Action",
-        "Adventure",
-        "Horror",
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 5,
-        "voteCount": 102976
+        "voteCount": 103549
       }
     },
     {
@@ -2619,7 +2590,26 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 102959
+        "voteCount": 103166
+      }
+    },
+    {
+      "id": "tt9224104",
+      "primaryTitle": "Meg 2: The Trench",
+      "originalTitle": "Meg 2: The Trench",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOGNiOTFkYTUtMDdiMi00YmJlLTkzOTAtMGViYWRhZjY3ODhkXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 6960,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5,
+        "voteCount": 103111
       }
     },
     {
@@ -2635,24 +2625,7 @@
       ],
       "rating": {
         "aggregateRating": 6.1,
-        "voteCount": 102668
-      }
-    },
-    {
-      "id": "tt30253473",
-      "primaryTitle": "Materialists",
-      "originalTitle": "Materialists",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNmQxMTI1YmEtOGY3Yi00NzVlLWEzMjAtYTI1NWZkNDFiMDg1XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 6960,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "rating": {
-        "aggregateRating": 6.2,
-        "voteCount": 101376
+        "voteCount": 102744
       }
     },
     {
@@ -2671,7 +2644,24 @@
       ],
       "rating": {
         "aggregateRating": 7.4,
-        "voteCount": 101091
+        "voteCount": 102671
+      }
+    },
+    {
+      "id": "tt30253473",
+      "primaryTitle": "Materialists",
+      "originalTitle": "Materialists",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNmQxMTI1YmEtOGY3Yi00NzVlLWEzMjAtYTI1NWZkNDFiMDg1XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 6960,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 6.2,
+        "voteCount": 101756
       }
     },
     {
@@ -2688,7 +2678,7 @@
       ],
       "rating": {
         "aggregateRating": 5.6,
-        "voteCount": 100952
+        "voteCount": 101028
       }
     },
     {
@@ -2705,7 +2695,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 100317
+        "voteCount": 100385
       }
     },
     {
@@ -2721,7 +2711,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 98693
+        "voteCount": 98878
       }
     },
     {
@@ -2740,7 +2730,7 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 98527
+        "voteCount": 98654
       }
     },
     {
@@ -2758,7 +2748,7 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 96706
+        "voteCount": 97367
       }
     },
     {
@@ -2779,7 +2769,7 @@
       ],
       "rating": {
         "aggregateRating": 6.7,
-        "voteCount": 95968
+        "voteCount": 96164
       }
     },
     {
@@ -2797,7 +2787,7 @@
       ],
       "rating": {
         "aggregateRating": 6.7,
-        "voteCount": 95201
+        "voteCount": 95434
       }
     },
     {
@@ -2815,7 +2805,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 94975
+        "voteCount": 95105
       }
     },
     {
@@ -2830,7 +2820,7 @@
       ],
       "rating": {
         "aggregateRating": 5.9,
-        "voteCount": 94779
+        "voteCount": 95030
       }
     },
     {
@@ -2846,7 +2836,24 @@
       ],
       "rating": {
         "aggregateRating": 6.1,
-        "voteCount": 91286
+        "voteCount": 93492
+      }
+    },
+    {
+      "id": "tt26657236",
+      "primaryTitle": "Backrooms",
+      "originalTitle": "Backrooms",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6600,
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 91018
       }
     },
     {
@@ -2864,7 +2871,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 90287
+        "voteCount": 90465
       }
     },
     {
@@ -2882,7 +2889,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 89166
+        "voteCount": 89431
       }
     },
     {
@@ -2898,7 +2905,7 @@
       ],
       "rating": {
         "aggregateRating": 6.2,
-        "voteCount": 88302
+        "voteCount": 88525
       }
     },
     {
@@ -2916,7 +2923,7 @@
       ],
       "rating": {
         "aggregateRating": 6.4,
-        "voteCount": 87554
+        "voteCount": 87615
       }
     },
     {
@@ -2934,7 +2941,7 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 86267
+        "voteCount": 86506
       }
     },
     {
@@ -2953,7 +2960,7 @@
       ],
       "rating": {
         "aggregateRating": 5.9,
-        "voteCount": 85685
+        "voteCount": 85820
       }
     },
     {
@@ -2970,7 +2977,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 85348
+        "voteCount": 85780
       }
     },
     {
@@ -2990,7 +2997,24 @@
       ],
       "rating": {
         "aggregateRating": 5.7,
-        "voteCount": 84595
+        "voteCount": 84687
+      }
+    },
+    {
+      "id": "tt32430579",
+      "primaryTitle": "Crime 101",
+      "originalTitle": "Crime 101",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZThlN2M4ZTUtYTU3Mi00MDE5LWFhYWUtNjkxMWEwNjUwNDVhXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 8400,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.8,
+        "voteCount": 83759
       }
     },
     {
@@ -3007,7 +3031,7 @@
       ],
       "rating": {
         "aggregateRating": 5.5,
-        "voteCount": 83244
+        "voteCount": 83473
       }
     },
     {
@@ -3027,7 +3051,23 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 83225
+        "voteCount": 83430
+      }
+    },
+    {
+      "id": "tt31184028",
+      "primaryTitle": "Together",
+      "originalTitle": "Together",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWI1Mzg0OWUtNDYxYy00Mzk3LTgxMjMtYWYxZjJhMjI4NDcyXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 6120,
+      "genres": [
+        "Horror",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 83312
       }
     },
     {
@@ -3046,74 +3086,7 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 83124
-      }
-    },
-    {
-      "id": "tt32430579",
-      "primaryTitle": "Crime 101",
-      "originalTitle": "Crime 101",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZThlN2M4ZTUtYTU3Mi00MDE5LWFhYWUtNjkxMWEwNjUwNDVhXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 8400,
-      "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 6.8,
-        "voteCount": 82764
-      }
-    },
-    {
-      "id": "tt31184028",
-      "primaryTitle": "Together",
-      "originalTitle": "Together",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWI1Mzg0OWUtNDYxYy00Mzk3LTgxMjMtYWYxZjJhMjI4NDcyXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 6120,
-      "genres": [
-        "Horror",
-        "Romance"
-      ],
-      "rating": {
-        "aggregateRating": 6.7,
-        "voteCount": 82672
-      }
-    },
-    {
-      "id": "tt10160976",
-      "primaryTitle": "The Nun II",
-      "originalTitle": "The Nun II",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNmJkYWIyYWYtNWVhZi00ZTkyLWExMTktZWUzNGE1MjNlNjQ0XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 6600,
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 5.6,
-        "voteCount": 82236
-      }
-    },
-    {
-      "id": "tt30057084",
-      "primaryTitle": "Babygirl",
-      "originalTitle": "Babygirl",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMmUwODYwODAtYWZkZS00YmUwLWFmMWEtOGNjMjE2NDk3OWIwXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 6840,
-      "genres": [
-        "Drama",
-        "Romance",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 5.7,
-        "voteCount": 82129
+        "voteCount": 83241
       }
     },
     {
@@ -3130,7 +3103,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 82084
+        "voteCount": 82792
       }
     },
     {
@@ -3147,7 +3120,57 @@
       ],
       "rating": {
         "aggregateRating": 6.1,
-        "voteCount": 81871
+        "voteCount": 82386
+      }
+    },
+    {
+      "id": "tt10160976",
+      "primaryTitle": "The Nun II",
+      "originalTitle": "The Nun II",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNmJkYWIyYWYtNWVhZi00ZTkyLWExMTktZWUzNGE1MjNlNjQ0XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 6600,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5.6,
+        "voteCount": 82353
+      }
+    },
+    {
+      "id": "tt30057084",
+      "primaryTitle": "Babygirl",
+      "originalTitle": "Babygirl",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMmUwODYwODAtYWZkZS00YmUwLWFmMWEtOGNjMjE2NDk3OWIwXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 6840,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5.7,
+        "voteCount": 82280
+      }
+    },
+    {
+      "id": "tt32897959",
+      "primaryTitle": "Wuthering Heights",
+      "originalTitle": "Wuthering Heights",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjNkNmNhOWUtZTFmOC00YmQ4LWEzYWQtZjdlMGU0MGRkN2YzXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 8160,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 6.1,
+        "voteCount": 82054
       }
     },
     {
@@ -3167,42 +3190,7 @@
       ],
       "rating": {
         "aggregateRating": 6.9,
-        "voteCount": 81732
-      }
-    },
-    {
-      "id": "tt15326988",
-      "primaryTitle": "Ghosted",
-      "originalTitle": "Ghosted",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZDI0YzJjZTctNjU0MS00Y2Y3LThkNDgtNWMxYWVlZjVkYzYwXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 7020,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Romance"
-      ],
-      "rating": {
-        "aggregateRating": 5.8,
-        "voteCount": 81061
-      }
-    },
-    {
-      "id": "tt1448754",
-      "primaryTitle": "Thanksgiving",
-      "originalTitle": "Thanksgiving",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzhiZTkyM2UtNjU2MC00MjcxLWJhZGYtODQ0MDViN2UxMzAwXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 6360,
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 6.2,
-        "voteCount": 81053
+        "voteCount": 81964
       }
     },
     {
@@ -3222,74 +3210,42 @@
       ],
       "rating": {
         "aggregateRating": 6.2,
-        "voteCount": 81048
+        "voteCount": 81346
       }
     },
     {
-      "id": "tt32897959",
-      "primaryTitle": "Wuthering Heights",
-      "originalTitle": "Wuthering Heights",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjNkNmNhOWUtZTFmOC00YmQ4LWEzYWQtZjdlMGU0MGRkN2YzXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 8160,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "rating": {
-        "aggregateRating": 6.1,
-        "voteCount": 81048
-      }
-    },
-    {
-      "id": "tt26657236",
-      "primaryTitle": "Backrooms",
-      "originalTitle": "Backrooms",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 6600,
-      "genres": [
-        "Horror",
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 7.1,
-        "voteCount": 80612
-      }
-    },
-    {
-      "id": "tt14509110",
-      "primaryTitle": "No One Will Save You",
-      "originalTitle": "No One Will Save You",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjJhYzMwMjItYTI4MC00N2MxLThhN2UtNjY1MjNiOTE5N2JkXkEyXkFqcGc@._V1_.jpg",
+      "id": "tt1448754",
+      "primaryTitle": "Thanksgiving",
+      "originalTitle": "Thanksgiving",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzhiZTkyM2UtNjU2MC00MjcxLWJhZGYtODQ0MDViN2UxMzAwXkEyXkFqcGc@._V1_.jpg",
       "startYear": 2023,
-      "runtimeSeconds": 5580,
+      "runtimeSeconds": 6360,
       "genres": [
         "Horror",
         "Mystery",
-        "Sci-Fi",
         "Thriller"
       ],
       "rating": {
         "aggregateRating": 6.2,
-        "voteCount": 80054
+        "voteCount": 81208
       }
     },
     {
-      "id": "tt21192142",
-      "primaryTitle": "All of Us Strangers",
-      "originalTitle": "All of Us Strangers",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZDU2ZjBlOTUtMTIzMC00OWI0LTg2OTAtZmUxYTE2MzdhNzZlXkEyXkFqcGc@._V1_.jpg",
+      "id": "tt15326988",
+      "primaryTitle": "Ghosted",
+      "originalTitle": "Ghosted",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZDI0YzJjZTctNjU0MS00Y2Y3LThkNDgtNWMxYWVlZjVkYzYwXkEyXkFqcGc@._V1_.jpg",
       "startYear": 2023,
-      "runtimeSeconds": 6300,
+      "runtimeSeconds": 7020,
       "genres": [
-        "Drama",
+        "Action",
+        "Adventure",
+        "Comedy",
         "Romance"
       ],
       "rating": {
-        "aggregateRating": 7.6,
-        "voteCount": 79719
+        "aggregateRating": 5.8,
+        "voteCount": 81141
       }
     },
     {
@@ -3308,7 +3264,41 @@
       ],
       "rating": {
         "aggregateRating": 6.9,
-        "voteCount": 79524
+        "voteCount": 80174
+      }
+    },
+    {
+      "id": "tt14509110",
+      "primaryTitle": "No One Will Save You",
+      "originalTitle": "No One Will Save You",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjJhYzMwMjItYTI4MC00N2MxLThhN2UtNjY1MjNiOTE5N2JkXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 5580,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.2,
+        "voteCount": 80139
+      }
+    },
+    {
+      "id": "tt21192142",
+      "primaryTitle": "All of Us Strangers",
+      "originalTitle": "All of Us Strangers",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZDU2ZjBlOTUtMTIzMC00OWI0LTg2OTAtZmUxYTE2MzdhNzZlXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 6300,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 79851
       }
     },
     {
@@ -3326,7 +3316,7 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 79157
+        "voteCount": 79219
       }
     },
     {
@@ -3342,7 +3332,24 @@
       ],
       "rating": {
         "aggregateRating": 5.7,
-        "voteCount": 78516
+        "voteCount": 78752
+      }
+    },
+    {
+      "id": "tt33071426",
+      "primaryTitle": "The Drama",
+      "originalTitle": "The Drama",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTcwOGZhYmItYTg3ZS00NjUwLWJiMmQtMjU5YjEwYWY0NmNkXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6300,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 7.2,
+        "voteCount": 78675
       }
     },
     {
@@ -3364,7 +3371,7 @@
       ],
       "rating": {
         "aggregateRating": 7.2,
-        "voteCount": 78364
+        "voteCount": 78443
       }
     },
     {
@@ -3380,24 +3387,7 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 78281
-      }
-    },
-    {
-      "id": "tt33071426",
-      "primaryTitle": "The Drama",
-      "originalTitle": "The Drama",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTcwOGZhYmItYTg3ZS00NjUwLWJiMmQtMjU5YjEwYWY0NmNkXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 6300,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "rating": {
-        "aggregateRating": 7.2,
-        "voteCount": 76502
+        "voteCount": 78393
       }
     },
     {
@@ -3414,7 +3404,7 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 75362
+        "voteCount": 75456
       }
     },
     {
@@ -3433,43 +3423,7 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 74381
-      }
-    },
-    {
-      "id": "tt10365998",
-      "primaryTitle": "Infinity Pool",
-      "originalTitle": "Infinity Pool",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjZiNGUxNDUtN2QwZi00ZmE5LTgyZjctYzQwOTQ1NWY1MWViXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 7020,
-      "genres": [
-        "Crime",
-        "Horror",
-        "Mystery",
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 6,
-        "voteCount": 74118
-      }
-    },
-    {
-      "id": "tt8368368",
-      "primaryTitle": "The Apprentice",
-      "originalTitle": "The Apprentice",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjI3MWUwOTMtOTY1YS00NzE0LWE1OTYtYmQ0Mjg2NDEyMzMxXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 7320,
-      "genres": [
-        "Biography",
-        "Drama",
-        "History"
-      ],
-      "rating": {
-        "aggregateRating": 7.1,
-        "voteCount": 74066
+        "voteCount": 74700
       }
     },
     {
@@ -3486,7 +3440,7 @@
       ],
       "rating": {
         "aggregateRating": 7.3,
-        "voteCount": 73908
+        "voteCount": 74311
       }
     },
     {
@@ -3505,7 +3459,43 @@
       ],
       "rating": {
         "aggregateRating": 8.4,
-        "voteCount": 73686
+        "voteCount": 74221
+      }
+    },
+    {
+      "id": "tt10365998",
+      "primaryTitle": "Infinity Pool",
+      "originalTitle": "Infinity Pool",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjZiNGUxNDUtN2QwZi00ZmE5LTgyZjctYzQwOTQ1NWY1MWViXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 7020,
+      "genres": [
+        "Crime",
+        "Horror",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6,
+        "voteCount": 74201
+      }
+    },
+    {
+      "id": "tt8368368",
+      "primaryTitle": "The Apprentice",
+      "originalTitle": "The Apprentice",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjI3MWUwOTMtOTY1YS00NzE0LWE1OTYtYmQ0Mjg2NDEyMzMxXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 7320,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 74201
       }
     },
     {
@@ -3521,7 +3511,7 @@
       ],
       "rating": {
         "aggregateRating": 6.7,
-        "voteCount": 73306
+        "voteCount": 73344
       }
     },
     {
@@ -3540,73 +3530,7 @@
       ],
       "rating": {
         "aggregateRating": 6.4,
-        "voteCount": 72762
-      }
-    },
-    {
-      "id": "tt22408160",
-      "primaryTitle": "Kinds of Kindness",
-      "originalTitle": "Kinds of Kindness",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjZmZGY1MzMtNDVkNi00NjE2LTlkMzMtMmUzNWExY2ExZWI2XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 9840,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Horror"
-      ],
-      "rating": {
-        "aggregateRating": 6.4,
-        "voteCount": 72581
-      }
-    },
-    {
-      "id": "tt10855768",
-      "primaryTitle": "Missing",
-      "originalTitle": "Missing",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMGVkMGU0NDktNTFlMC00ZWI5LWI5OGUtYmVjZTEzOTM4MTI5XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 6660,
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 7.1,
-        "voteCount": 72216
-      }
-    },
-    {
-      "id": "tt7130300",
-      "primaryTitle": "The Woman in Cabin 10",
-      "originalTitle": "The Woman in Cabin 10",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOGZlYmNiNmYtYjlkMi00YmI3LTgxYjEtY2Y0Y2ZjOGQzMGRiXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 5520,
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 5.8,
-        "voteCount": 72094
-      }
-    },
-    {
-      "id": "tt5672290",
-      "primaryTitle": "The First Omen",
-      "originalTitle": "The First Omen",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNWU0ZjM1YjYtMGZkZi00NTBiLTgxMGItMzVhZDgyZTkyY2ZhXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 7140,
-      "genres": [
-        "Horror"
-      ],
-      "rating": {
-        "aggregateRating": 6.5,
-        "voteCount": 71819
+        "voteCount": 72821
       }
     },
     {
@@ -3626,7 +3550,73 @@
       ],
       "rating": {
         "aggregateRating": 6.2,
-        "voteCount": 71671
+        "voteCount": 72707
+      }
+    },
+    {
+      "id": "tt22408160",
+      "primaryTitle": "Kinds of Kindness",
+      "originalTitle": "Kinds of Kindness",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjZmZGY1MzMtNDVkNi00NjE2LTlkMzMtMmUzNWExY2ExZWI2XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 9840,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Horror"
+      ],
+      "rating": {
+        "aggregateRating": 6.4,
+        "voteCount": 72704
+      }
+    },
+    {
+      "id": "tt7130300",
+      "primaryTitle": "The Woman in Cabin 10",
+      "originalTitle": "The Woman in Cabin 10",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOGZlYmNiNmYtYjlkMi00YmI3LTgxYjEtY2Y0Y2ZjOGQzMGRiXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 5520,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5.8,
+        "voteCount": 72326
+      }
+    },
+    {
+      "id": "tt10855768",
+      "primaryTitle": "Missing",
+      "originalTitle": "Missing",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMGVkMGU0NDktNTFlMC00ZWI5LWI5OGUtYmVjZTEzOTM4MTI5XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 6660,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 72283
+      }
+    },
+    {
+      "id": "tt5672290",
+      "primaryTitle": "The First Omen",
+      "originalTitle": "The First Omen",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNWU0ZjM1YjYtMGZkZi00NTBiLTgxMGItMzVhZDgyZTkyY2ZhXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 7140,
+      "genres": [
+        "Horror"
+      ],
+      "rating": {
+        "aggregateRating": 6.5,
+        "voteCount": 71879
       }
     },
     {
@@ -3644,24 +3634,23 @@
       ],
       "rating": {
         "aggregateRating": 5.7,
-        "voteCount": 70681
+        "voteCount": 71145
       }
     },
     {
-      "id": "tt1001520",
-      "primaryTitle": "The Last Voyage of the Demeter",
-      "originalTitle": "The Last Voyage of the Demeter",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZmRkMTFjNWMtNTVhNS00Y2EwLWJjYTAtMDRiMjA2MDJhOGI1XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 7080,
+      "id": "tt4712810",
+      "primaryTitle": "Now You See Me: Now You Don't",
+      "originalTitle": "Now You See Me: Now You Don't",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 6780,
       "genres": [
-        "Fantasy",
-        "Horror",
+        "Crime",
         "Thriller"
       ],
       "rating": {
-        "aggregateRating": 6.1,
-        "voteCount": 70583
+        "aggregateRating": 5.9,
+        "voteCount": 70942
       }
     },
     {
@@ -3680,7 +3669,43 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 70414
+        "voteCount": 70645
+      }
+    },
+    {
+      "id": "tt1001520",
+      "primaryTitle": "The Last Voyage of the Demeter",
+      "originalTitle": "The Last Voyage of the Demeter",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZmRkMTFjNWMtNTVhNS00Y2EwLWJjYTAtMDRiMjA2MDJhOGI1XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 7080,
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.1,
+        "voteCount": 70630
+      }
+    },
+    {
+      "id": "tt15047880",
+      "primaryTitle": "Disclosure Day",
+      "originalTitle": "Disclosure Day",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTgwNDI1ZjctYWNmMS00MTJhLTg1ZWItMzI1Yjk5NjZkYWFkXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 8700,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 70304
       }
     },
     {
@@ -3696,7 +3721,7 @@
       ],
       "rating": {
         "aggregateRating": 7,
-        "voteCount": 70088
+        "voteCount": 70246
       }
     },
     {
@@ -3715,23 +3740,7 @@
       ],
       "rating": {
         "aggregateRating": 5.6,
-        "voteCount": 69950
-      }
-    },
-    {
-      "id": "tt4712810",
-      "primaryTitle": "Now You See Me: Now You Don't",
-      "originalTitle": "Now You See Me: Now You Don't",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 6780,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 5.9,
-        "voteCount": 69840
+        "voteCount": 70049
       }
     },
     {
@@ -3749,7 +3758,7 @@
       ],
       "rating": {
         "aggregateRating": 6.4,
-        "voteCount": 69747
+        "voteCount": 69913
       }
     },
     {
@@ -3768,7 +3777,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 69676
+        "voteCount": 69704
       }
     },
     {
@@ -3786,22 +3795,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 69437
-      }
-    },
-    {
-      "id": "tt35291758",
-      "primaryTitle": "Melania",
-      "originalTitle": "Melania",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWQxMDYxNDgtOWM4OS00YjA0LTg5MzAtMjY1NjlmOTZlMGJkXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 6240,
-      "genres": [
-        "Documentary"
-      ],
-      "rating": {
-        "aggregateRating": 1.6,
-        "voteCount": 68997
+        "voteCount": 69513
       }
     },
     {
@@ -3820,7 +3814,22 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 68706
+        "voteCount": 69183
+      }
+    },
+    {
+      "id": "tt35291758",
+      "primaryTitle": "Melania",
+      "originalTitle": "Melania",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWQxMDYxNDgtOWM4OS00YjA0LTg5MzAtMjY1NjlmOTZlMGJkXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6240,
+      "genres": [
+        "Documentary"
+      ],
+      "rating": {
+        "aggregateRating": 1.6,
+        "voteCount": 69048
       }
     },
     {
@@ -3837,7 +3846,24 @@
       ],
       "rating": {
         "aggregateRating": 5.7,
-        "voteCount": 68639
+        "voteCount": 68692
+      }
+    },
+    {
+      "id": "tt30955489",
+      "primaryTitle": "Until Dawn",
+      "originalTitle": "Until Dawn",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZWU4NDY0ODktOGI3OC00NWE1LWIwYmQtNmJiZWU3NmZlMDhkXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 6180,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 5.7,
+        "voteCount": 68512
       }
     },
     {
@@ -3855,24 +3881,26 @@
       ],
       "rating": {
         "aggregateRating": 6.4,
-        "voteCount": 68186
+        "voteCount": 68247
       }
     },
     {
-      "id": "tt30955489",
-      "primaryTitle": "Until Dawn",
-      "originalTitle": "Until Dawn",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZWU4NDY0ODktOGI3OC00NWE1LWIwYmQtNmJiZWU3NmZlMDhkXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 6180,
+      "id": "tt26443616",
+      "primaryTitle": "Hoppers",
+      "originalTitle": "Hoppers",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzRiMzZlMTMtNmU3OC00MDUwLThmNDUtMTBjZmQ3MWQ4NTljXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6240,
       "genres": [
-        "Drama",
-        "Horror",
-        "Mystery"
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Sci-Fi"
       ],
       "rating": {
-        "aggregateRating": 5.7,
-        "voteCount": 68129
+        "aggregateRating": 7.3,
+        "voteCount": 67959
       }
     },
     {
@@ -3891,7 +3919,7 @@
       ],
       "rating": {
         "aggregateRating": 6.4,
-        "voteCount": 67553
+        "voteCount": 67671
       }
     },
     {
@@ -3907,7 +3935,7 @@
       ],
       "rating": {
         "aggregateRating": 5.5,
-        "voteCount": 67549
+        "voteCount": 67574
       }
     },
     {
@@ -3926,7 +3954,43 @@
       ],
       "rating": {
         "aggregateRating": 5.9,
+        "voteCount": 67355
+      }
+    },
+    {
+      "id": "tt30825738",
+      "primaryTitle": "Star Wars: The Mandalorian and Grogu",
+      "originalTitle": "The Mandalorian and Grogu",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYjRkYzAzNjktZmRhMy00NjRiLWE0OTMtYmRmMTE5NDkzY2NlXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 7920,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Family",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 7,
         "voteCount": 67257
+      }
+    },
+    {
+      "id": "tt33244668",
+      "primaryTitle": "Anaconda",
+      "originalTitle": "Anaconda",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTNlMTk1YTItOWYxNi00ZWIzLTkyOWEtNTJmMzk4NmIyN2NmXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 5940,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": {
+        "aggregateRating": 5.5,
+        "voteCount": 67089
       }
     },
     {
@@ -3946,24 +4010,7 @@
       ],
       "rating": {
         "aggregateRating": 7.6,
-        "voteCount": 66581
-      }
-    },
-    {
-      "id": "tt33244668",
-      "primaryTitle": "Anaconda",
-      "originalTitle": "Anaconda",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTNlMTk1YTItOWYxNi00ZWIzLTkyOWEtNTJmMzk4NmIyN2NmXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 5940,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy"
-      ],
-      "rating": {
-        "aggregateRating": 5.5,
-        "voteCount": 66507
+        "voteCount": 66764
       }
     },
     {
@@ -3979,7 +4026,22 @@
       ],
       "rating": {
         "aggregateRating": 7,
-        "voteCount": 65945
+        "voteCount": 66083
+      }
+    },
+    {
+      "id": "tt29644189",
+      "primaryTitle": "Black Phone 2",
+      "originalTitle": "Black Phone 2",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTVjMzNmZGYtOWU5NS00NDYzLThhZTktZGNlODIwYWVhMDRmXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 6840,
+      "genres": [
+        "Horror"
+      ],
+      "rating": {
+        "aggregateRating": 6,
+        "voteCount": 65172
       }
     },
     {
@@ -3995,41 +4057,7 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 64866
-      }
-    },
-    {
-      "id": "tt26443616",
-      "primaryTitle": "Hoppers",
-      "originalTitle": "Hoppers",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzRiMzZlMTMtNmU3OC00MDUwLThmNDUtMTBjZmQ3MWQ4NTljXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 6240,
-      "genres": [
-        "Animation",
-        "Adventure",
-        "Comedy",
-        "Family",
-        "Sci-Fi"
-      ],
-      "rating": {
-        "aggregateRating": 7.3,
-        "voteCount": 64651
-      }
-    },
-    {
-      "id": "tt29644189",
-      "primaryTitle": "Black Phone 2",
-      "originalTitle": "Black Phone 2",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTVjMzNmZGYtOWU5NS00NDYzLThhZTktZGNlODIwYWVhMDRmXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 6840,
-      "genres": [
-        "Horror"
-      ],
-      "rating": {
-        "aggregateRating": 6,
-        "voteCount": 64630
+        "voteCount": 64965
       }
     },
     {
@@ -4048,7 +4076,7 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 64532
+        "voteCount": 64618
       }
     },
     {
@@ -4065,7 +4093,7 @@
       ],
       "rating": {
         "aggregateRating": 5.5,
-        "voteCount": 64215
+        "voteCount": 64300
       }
     },
     {
@@ -4076,7 +4104,6 @@
       "startYear": 2024,
       "runtimeSeconds": 7320,
       "genres": [
-        "Animation",
         "Action",
         "Adventure",
         "Drama",
@@ -4085,26 +4112,7 @@
       ],
       "rating": {
         "aggregateRating": 5.3,
-        "voteCount": 64129
-      }
-    },
-    {
-      "id": "tt30825738",
-      "primaryTitle": "Star Wars: The Mandalorian and Grogu",
-      "originalTitle": "The Mandalorian and Grogu",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYjRkYzAzNjktZmRhMy00NjRiLWE0OTMtYmRmMTE5NDkzY2NlXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 7920,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Family",
-        "Fantasy",
-        "Sci-Fi"
-      ],
-      "rating": {
-        "aggregateRating": 7,
-        "voteCount": 63970
+        "voteCount": 64206
       }
     },
     {
@@ -4119,7 +4127,7 @@
       ],
       "rating": {
         "aggregateRating": 6.2,
-        "voteCount": 63502
+        "voteCount": 63638
       }
     },
     {
@@ -4136,7 +4144,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 63350
+        "voteCount": 63414
       }
     },
     {
@@ -4153,7 +4161,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 63105
+        "voteCount": 63193
       }
     },
     {
@@ -4176,7 +4184,7 @@
       ],
       "rating": {
         "aggregateRating": 7.5,
-        "voteCount": 62496
+        "voteCount": 62568
       }
     },
     {
@@ -4191,7 +4199,7 @@
       ],
       "rating": {
         "aggregateRating": 6.2,
-        "voteCount": 62467
+        "voteCount": 62554
       }
     },
     {
@@ -4206,7 +4214,7 @@
       ],
       "rating": {
         "aggregateRating": 6.9,
-        "voteCount": 62282
+        "voteCount": 62412
       }
     },
     {
@@ -4224,59 +4232,7 @@
       ],
       "rating": {
         "aggregateRating": 6.9,
-        "voteCount": 61550
-      }
-    },
-    {
-      "id": "tt23137390",
-      "primaryTitle": "Immaculate",
-      "originalTitle": "Immaculate",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWEzYjYyMjQtNTJjYi00ZDQ5LWE4N2MtNWY2ZTgxODNhYWM4XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 5340,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 5.8,
-        "voteCount": 61493
-      }
-    },
-    {
-      "id": "tt36463894",
-      "primaryTitle": "Predator: Killer of Killers",
-      "originalTitle": "Predator: Killer of Killers",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjM2MjA4YzQtYjBkNS00YmU3LTllOTgtMDQzMjkzM2Q4MmM5XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 5100,
-      "genres": [
-        "Animation",
-        "Action",
-        "Adventure",
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 7.4,
-        "voteCount": 61466
-      }
-    },
-    {
-      "id": "tt31176520",
-      "primaryTitle": "Eddington",
-      "originalTitle": "Eddington",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNmM0Yzc1ZjAtZTg4My00NDI3LWEwMzAtY2ZkNzMxMWMwOTFlXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 8880,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Western"
-      ],
-      "rating": {
-        "aggregateRating": 6.6,
-        "voteCount": 61463
+        "voteCount": 62157
       }
     },
     {
@@ -4295,75 +4251,24 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 60645
+        "voteCount": 61768
       }
     },
     {
-      "id": "tt14856980",
-      "primaryTitle": "Atlas",
-      "originalTitle": "Atlas",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNDUwNTFkNzYtMGM5NS00NTc4LWEwMDUtMmE5MzgyMjcwOWM4XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 7080,
+      "id": "tt31176520",
+      "primaryTitle": "Eddington",
+      "originalTitle": "Eddington",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNmM0Yzc1ZjAtZTg4My00NDI3LWEwMzAtY2ZkNzMxMWMwOTFlXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 8880,
       "genres": [
-        "Animation",
-        "Action",
-        "Adventure",
+        "Comedy",
         "Drama",
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 5.7,
-        "voteCount": 60136
-      }
-    },
-    {
-      "id": "tt33612209",
-      "primaryTitle": "The Devil Wears Prada 2",
-      "originalTitle": "The Devil Wears Prada 2",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZmM3ZDU3ODItZmY5Yi00OTQ2LWE5OTctZTA5NDBhMWJkOGY3XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 7140,
-      "genres": [
-        "Comedy",
-        "Drama"
+        "Western"
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 59365
-      }
-    },
-    {
-      "id": "tt1896747",
-      "primaryTitle": "Fly Me to the Moon",
-      "originalTitle": "Fly Me to the Moon",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzI4MzRlMGYtYWUwMC00M2FkLTliN2ItNDA1MDJhOTgwMzY5XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 7920,
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "rating": {
-        "aggregateRating": 6.6,
-        "voteCount": 59296
-      }
-    },
-    {
-      "id": "tt19864802",
-      "primaryTitle": "Land of Bad",
-      "originalTitle": "Land of Bad",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWI2YjMwMGEtZDJlZC00NGVkLTk2OTktMjhjNTZiNTIxOTg3XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 6780,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 6.6,
-        "voteCount": 59212
+        "voteCount": 61745
       }
     },
     {
@@ -4379,7 +4284,77 @@
       ],
       "rating": {
         "aggregateRating": 8.6,
-        "voteCount": 59069
+        "voteCount": 61673
+      }
+    },
+    {
+      "id": "tt36463894",
+      "primaryTitle": "Predator: Killer of Killers",
+      "originalTitle": "Predator: Killer of Killers",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjM2MjA4YzQtYjBkNS00YmU3LTllOTgtMDQzMjkzM2Q4MmM5XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 5100,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.4,
+        "voteCount": 61624
+      }
+    },
+    {
+      "id": "tt23137390",
+      "primaryTitle": "Immaculate",
+      "originalTitle": "Immaculate",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWEzYjYyMjQtNTJjYi00ZDQ5LWE4N2MtNWY2ZTgxODNhYWM4XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 5340,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5.8,
+        "voteCount": 61586
+      }
+    },
+    {
+      "id": "tt33612209",
+      "primaryTitle": "The Devil Wears Prada 2",
+      "originalTitle": "The Devil Wears Prada 2",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZmM3ZDU3ODItZmY5Yi00OTQ2LWE5OTctZTA5NDBhMWJkOGY3XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 7140,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 60843
+      }
+    },
+    {
+      "id": "tt14856980",
+      "primaryTitle": "Atlas",
+      "originalTitle": "Atlas",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNDUwNTFkNzYtMGM5NS00NTc4LWEwMDUtMmE5MzgyMjcwOWM4XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 7080,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5.7,
+        "voteCount": 60194
       }
     },
     {
@@ -4395,7 +4370,56 @@
       ],
       "rating": {
         "aggregateRating": 7.6,
-        "voteCount": 59055
+        "voteCount": 59745
+      }
+    },
+    {
+      "id": "tt1896747",
+      "primaryTitle": "Fly Me to the Moon",
+      "originalTitle": "Fly Me to the Moon",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzI4MzRlMGYtYWUwMC00M2FkLTliN2ItNDA1MDJhOTgwMzY5XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 7920,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 59375
+      }
+    },
+    {
+      "id": "tt19864802",
+      "primaryTitle": "Land of Bad",
+      "originalTitle": "Land of Bad",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWI2YjMwMGEtZDJlZC00NGVkLTk2OTktMjhjNTZiNTIxOTg3XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 6780,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 59342
+      }
+    },
+    {
+      "id": "tt27047903",
+      "primaryTitle": "Scream 7",
+      "originalTitle": "Scream 7",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzk2YzRjYmItNTA5Mi00ODczLTljYzUtOWE1ZDFkODhlZWJlXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6840,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5.5,
+        "voteCount": 59268
       }
     },
     {
@@ -4410,7 +4434,7 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 58649
+        "voteCount": 58883
       }
     },
     {
@@ -4429,7 +4453,7 @@
       ],
       "rating": {
         "aggregateRating": 4.7,
-        "voteCount": 58644
+        "voteCount": 58767
       }
     },
     {
@@ -4446,7 +4470,7 @@
       ],
       "rating": {
         "aggregateRating": 5.5,
-        "voteCount": 58595
+        "voteCount": 58645
       }
     },
     {
@@ -4461,43 +4485,42 @@
       ],
       "rating": {
         "aggregateRating": 6.7,
-        "voteCount": 58367
+        "voteCount": 58464
       }
     },
     {
-      "id": "tt15047880",
-      "primaryTitle": "Disclosure Day",
-      "originalTitle": "Disclosure Day",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTgwNDI1ZjctYWNmMS00MTJhLTg1ZWItMzI1Yjk5NjZkYWFkXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 8700,
+      "id": "tt32149847",
+      "primaryTitle": "Drop",
+      "originalTitle": "Drop",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWUyOTNlMjItNWUyZC00ZGJiLTg3MDMtODJmMGQyMGY3NzU3XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 5700,
       "genres": [
-        "Action",
         "Drama",
         "Mystery",
-        "Sci-Fi",
         "Thriller"
       ],
       "rating": {
-        "aggregateRating": 6.7,
-        "voteCount": 58362
+        "aggregateRating": 6.1,
+        "voteCount": 57423
       }
     },
     {
-      "id": "tt27047903",
-      "primaryTitle": "Scream 7",
-      "originalTitle": "Scream 7",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzk2YzRjYmItNTA5Mi00ODczLTljYzUtOWE1ZDFkODhlZWJlXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 6840,
+      "id": "tt1341338",
+      "primaryTitle": "Good Luck, Have Fun, Don't Die",
+      "originalTitle": "Good Luck, Have Fun, Don't Die",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTQ0NzYzM2QtOWYzMC00MGU5LWJmMTQtYTU1ODU0ZjUwYjk0XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 8040,
       "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
       ],
       "rating": {
-        "aggregateRating": 5.5,
-        "voteCount": 58269
+        "aggregateRating": 7,
+        "voteCount": 57361
       }
     },
     {
@@ -4516,24 +4539,7 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 57275
-      }
-    },
-    {
-      "id": "tt32149847",
-      "primaryTitle": "Drop",
-      "originalTitle": "Drop",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWUyOTNlMjItNWUyZC00ZGJiLTg3MDMtODJmMGQyMGY3NzU3XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 5700,
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 6.1,
-        "voteCount": 57266
+        "voteCount": 57314
       }
     },
     {
@@ -4551,7 +4557,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 56877
+        "voteCount": 57225
       }
     },
     {
@@ -4569,7 +4575,25 @@
       ],
       "rating": {
         "aggregateRating": 4.8,
-        "voteCount": 56338
+        "voteCount": 56385
+      }
+    },
+    {
+      "id": "tt17490712",
+      "primaryTitle": "Mortal Kombat II",
+      "originalTitle": "Mortal Kombat II",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTg2YWNkN2EtMzc1Ny00ZTBhLWFmYTItMmMyNzhjNjhhNmVhXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6960,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 6.4,
+        "voteCount": 56173
       }
     },
     {
@@ -4585,7 +4609,7 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 55609
+        "voteCount": 55667
       }
     },
     {
@@ -4603,25 +4627,7 @@
       ],
       "rating": {
         "aggregateRating": 6.4,
-        "voteCount": 55504
-      }
-    },
-    {
-      "id": "tt1341338",
-      "primaryTitle": "Good Luck, Have Fun, Don't Die",
-      "originalTitle": "Good Luck, Have Fun, Don't Die",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTQ0NzYzM2QtOWYzMC00MGU5LWJmMTQtYTU1ODU0ZjUwYjk0XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 8040,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Sci-Fi"
-      ],
-      "rating": {
-        "aggregateRating": 7,
-        "voteCount": 54487
+        "voteCount": 55574
       }
     },
     {
@@ -4639,7 +4645,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 54446
+        "voteCount": 54646
       }
     },
     {
@@ -4657,7 +4663,7 @@
       ],
       "rating": {
         "aggregateRating": 5.8,
-        "voteCount": 54118
+        "voteCount": 54283
       }
     },
     {
@@ -4674,7 +4680,7 @@
       ],
       "rating": {
         "aggregateRating": 5.9,
-        "voteCount": 53963
+        "voteCount": 54014
       }
     },
     {
@@ -4691,7 +4697,7 @@
       ],
       "rating": {
         "aggregateRating": 6,
-        "voteCount": 53729
+        "voteCount": 53917
       }
     },
     {
@@ -4709,7 +4715,7 @@
       ],
       "rating": {
         "aggregateRating": 5.7,
-        "voteCount": 53531
+        "voteCount": 53671
       }
     },
     {
@@ -4725,7 +4731,7 @@
       ],
       "rating": {
         "aggregateRating": 5.7,
-        "voteCount": 53029
+        "voteCount": 53059
       }
     },
     {
@@ -4744,25 +4750,7 @@
       ],
       "rating": {
         "aggregateRating": 5.6,
-        "voteCount": 52928
-      }
-    },
-    {
-      "id": "tt17490712",
-      "primaryTitle": "Mortal Kombat II",
-      "originalTitle": "Mortal Kombat II",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTg2YWNkN2EtMzc1Ny00ZTBhLWFmYTItMmMyNzhjNjhhNmVhXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 6960,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Sci-Fi"
-      ],
-      "rating": {
-        "aggregateRating": 6.5,
-        "voteCount": 52857
+        "voteCount": 52979
       }
     },
     {
@@ -4780,14 +4768,14 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 52241
+        "voteCount": 52326
       }
     },
     {
       "id": "tt12921446",
       "primaryTitle": "The Exorcist: Believer",
       "originalTitle": "The Exorcist: Believer",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYjMxN2E4NTctYjYxZi00OTM5LTk3YTAtZmI0MjljN2VhNmY5XkEyXkFqcGc@._V1_.jpg",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNDJhZDRiNDYtOTZkZC00NDg1LTlkMzMtY2I2ZmUwNjkwMjQ0XkEyXkFqcGc@._V1_.jpg",
       "startYear": 2023,
       "runtimeSeconds": 6660,
       "genres": [
@@ -4795,7 +4783,7 @@
       ],
       "rating": {
         "aggregateRating": 4.8,
-        "voteCount": 50788
+        "voteCount": 50813
       }
     },
     {
@@ -4815,7 +4803,41 @@
       ],
       "rating": {
         "aggregateRating": 5.5,
-        "voteCount": 50662
+        "voteCount": 50720
+      }
+    },
+    {
+      "id": "tt33046197",
+      "primaryTitle": "The Wrecking Crew",
+      "originalTitle": "The Wrecking Crew",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZDcyMmYxZmMtMjg5MC00NWMzLTgyNDEtOGI2MWEzMmFmNmVmXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 7440,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 6.4,
+        "voteCount": 50587
+      }
+    },
+    {
+      "id": "tt5525650",
+      "primaryTitle": "The Goat Life",
+      "originalTitle": "The Goat Life",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjJiNjk2MzgtYWIzNy00Yzc0LTg4YzUtYjQ5OGZjZTc1YjU0XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 10380,
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 50371
       }
     },
     {
@@ -4835,41 +4857,7 @@
       ],
       "rating": {
         "aggregateRating": 6,
-        "voteCount": 50337
-      }
-    },
-    {
-      "id": "tt5525650",
-      "primaryTitle": "The Goat Life",
-      "originalTitle": "The Goat Life",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjJiNjk2MzgtYWIzNy00Yzc0LTg4YzUtYjQ5OGZjZTc1YjU0XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 10380,
-      "genres": [
-        "Adventure",
-        "Drama"
-      ],
-      "rating": {
-        "aggregateRating": 7.1,
-        "voteCount": 50335
-      }
-    },
-    {
-      "id": "tt33046197",
-      "primaryTitle": "The Wrecking Crew",
-      "originalTitle": "The Wrecking Crew",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZDcyMmYxZmMtMjg5MC00NWMzLTgyNDEtOGI2MWEzMmFmNmVmXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 7440,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Crime",
-        "Mystery"
-      ],
-      "rating": {
-        "aggregateRating": 6.4,
-        "voteCount": 50194
+        "voteCount": 50367
       }
     },
     {
@@ -4885,7 +4873,7 @@
       ],
       "rating": {
         "aggregateRating": 5.1,
-        "voteCount": 49150
+        "voteCount": 49314
       }
     },
     {
@@ -4903,7 +4891,24 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 48688
+        "voteCount": 48825
+      }
+    },
+    {
+      "id": "tt27543578",
+      "primaryTitle": "Good Fortune",
+      "originalTitle": "Good Fortune",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYjk3ZTgwZmUtOTVlMy00ODExLTkzMTUtYzRhM2FjNGYyMzZkXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 5820,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 6.5,
+        "voteCount": 48379
       }
     },
     {
@@ -4921,7 +4926,7 @@
       ],
       "rating": {
         "aggregateRating": 6.7,
-        "voteCount": 48324
+        "voteCount": 48365
       }
     },
     {
@@ -4938,24 +4943,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 48018
-      }
-    },
-    {
-      "id": "tt27543578",
-      "primaryTitle": "Good Fortune",
-      "originalTitle": "Good Fortune",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYjk3ZTgwZmUtOTVlMy00ODExLTkzMTUtYzRhM2FjNGYyMzZkXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 5820,
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Romance"
-      ],
-      "rating": {
-        "aggregateRating": 6.5,
-        "voteCount": 48005
+        "voteCount": 48115
       }
     },
     {
@@ -4966,7 +4954,6 @@
       "startYear": 2024,
       "runtimeSeconds": 6420,
       "genres": [
-        "Animation",
         "Adventure",
         "Drama",
         "Romance",
@@ -4974,7 +4961,7 @@
       ],
       "rating": {
         "aggregateRating": 5.7,
-        "voteCount": 47877
+        "voteCount": 47916
       }
     },
     {
@@ -4992,7 +4979,7 @@
       ],
       "rating": {
         "aggregateRating": 6.9,
-        "voteCount": 47615
+        "voteCount": 47680
       }
     },
     {
@@ -5010,7 +4997,7 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 47608
+        "voteCount": 47670
       }
     },
     {
@@ -5025,7 +5012,7 @@
       ],
       "rating": {
         "aggregateRating": 6.2,
-        "voteCount": 47521
+        "voteCount": 47554
       }
     },
     {
@@ -5044,7 +5031,25 @@
       ],
       "rating": {
         "aggregateRating": 5.5,
-        "voteCount": 47346
+        "voteCount": 47405
+      }
+    },
+    {
+      "id": "tt14961624",
+      "primaryTitle": "The Old Guard 2",
+      "originalTitle": "The Old Guard 2",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZmFhNWY1MjEtZTkyZS00ZWIzLTk4ZWItMDM0MzliNmE1ZGZhXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 6420,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5.1,
+        "voteCount": 47110
       }
     },
     {
@@ -5063,7 +5068,7 @@
       ],
       "rating": {
         "aggregateRating": 6.1,
-        "voteCount": 47015
+        "voteCount": 47058
       }
     },
     {
@@ -5079,25 +5084,23 @@
       ],
       "rating": {
         "aggregateRating": 6.4,
-        "voteCount": 46994
+        "voteCount": 47027
       }
     },
     {
-      "id": "tt14961624",
-      "primaryTitle": "The Old Guard 2",
-      "originalTitle": "The Old Guard 2",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZmFhNWY1MjEtZTkyZS00ZWIzLTk4ZWItMDM0MzliNmE1ZGZhXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 6420,
+      "id": "tt22740896",
+      "primaryTitle": "People We Meet on Vacation",
+      "originalTitle": "People We Meet on Vacation",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BM2ZmZWEyOGItYzVjYi00N2Q3LTlmNDItYmUwZjFhMTJmMzgzXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 7020,
       "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Thriller"
+        "Comedy",
+        "Romance"
       ],
       "rating": {
-        "aggregateRating": 5.1,
-        "voteCount": 46992
+        "aggregateRating": 6.6,
+        "voteCount": 46993
       }
     },
     {
@@ -5114,7 +5117,24 @@
       ],
       "rating": {
         "aggregateRating": 5.9,
-        "voteCount": 46782
+        "voteCount": 46843
+      }
+    },
+    {
+      "id": "tt15574270",
+      "primaryTitle": "I Saw the TV Glow",
+      "originalTitle": "I Saw the TV Glow",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZTA2MGM5M2ItNDBjYi00OWJhLTk1MTMtMGIzMDZlYzg1N2Q3XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 6000,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 5.8,
+        "voteCount": 46488
       }
     },
     {
@@ -5133,75 +5153,24 @@
       ],
       "rating": {
         "aggregateRating": 7,
-        "voteCount": 46394
+        "voteCount": 46453
       }
     },
     {
-      "id": "tt22740896",
-      "primaryTitle": "People We Meet on Vacation",
-      "originalTitle": "People We Meet on Vacation",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BM2ZmZWEyOGItYzVjYi00N2Q3LTlmNDItYmUwZjFhMTJmMzgzXkEyXkFqcGc@._V1_.jpg",
+      "id": "tt33978029",
+      "primaryTitle": "Ready or Not 2: Here I Come",
+      "originalTitle": "Ready or Not: Here I Come",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZTM3N2EyMTEtNDhkMi00ZjNiLWI0MWUtOGViMjExODY3YTJhXkEyXkFqcGc@._V1_.jpg",
       "startYear": 2026,
-      "runtimeSeconds": 7020,
+      "runtimeSeconds": 6480,
       "genres": [
         "Comedy",
-        "Romance"
-      ],
-      "rating": {
-        "aggregateRating": 6.6,
-        "voteCount": 46326
-      }
-    },
-    {
-      "id": "tt15574270",
-      "primaryTitle": "I Saw the TV Glow",
-      "originalTitle": "I Saw the TV Glow",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZTA2MGM5M2ItNDBjYi00OWJhLTk1MTMtMGIzMDZlYzg1N2Q3XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 6000,
-      "genres": [
-        "Drama",
-        "Horror",
-        "Mystery"
-      ],
-      "rating": {
-        "aggregateRating": 5.8,
-        "voteCount": 46292
-      }
-    },
-    {
-      "id": "tt14260836",
-      "primaryTitle": "Better Man",
-      "originalTitle": "Better Man",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYWU3YzU0NTItMGVlYi00YTFmLWE5MmQtNjg4ODQ3ZWYyNjRkXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 8100,
-      "genres": [
-        "Animation",
-        "Biography",
-        "Fantasy",
-        "Music",
-        "Musical"
-      ],
-      "rating": {
-        "aggregateRating": 7.5,
-        "voteCount": 46278
-      }
-    },
-    {
-      "id": "tt24807110",
-      "primaryTitle": "Don't Move",
-      "originalTitle": "Don't Move",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZmFlMTMyMzQtNmI4NC00YTcyLTgwOGUtMzc4YjcyNDUyOGY3XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 5520,
-      "genres": [
         "Horror",
         "Thriller"
       ],
       "rating": {
-        "aggregateRating": 5.8,
-        "voteCount": 46188
+        "aggregateRating": 6.5,
+        "voteCount": 46394
       }
     },
     {
@@ -5222,7 +5191,25 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 46151
+        "voteCount": 46389
+      }
+    },
+    {
+      "id": "tt14260836",
+      "primaryTitle": "Better Man",
+      "originalTitle": "Better Man",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYWU3YzU0NTItMGVlYi00YTFmLWE5MmQtNjg4ODQ3ZWYyNjRkXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 8100,
+      "genres": [
+        "Biography",
+        "Fantasy",
+        "Music",
+        "Musical"
+      ],
+      "rating": {
+        "aggregateRating": 7.5,
+        "voteCount": 46369
       }
     },
     {
@@ -5238,7 +5225,23 @@
       ],
       "rating": {
         "aggregateRating": 6,
-        "voteCount": 46064
+        "voteCount": 46293
+      }
+    },
+    {
+      "id": "tt24807110",
+      "primaryTitle": "Don't Move",
+      "originalTitle": "Don't Move",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZmFlMTMyMzQtNmI4NC00YTcyLTgwOGUtMzc4YjcyNDUyOGY3XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 5520,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5.8,
+        "voteCount": 46264
       }
     },
     {
@@ -5256,7 +5259,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 45838
+        "voteCount": 46060
       }
     },
     {
@@ -5272,7 +5275,7 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 45528
+        "voteCount": 45584
       }
     },
     {
@@ -5292,42 +5295,7 @@
       ],
       "rating": {
         "aggregateRating": 7,
-        "voteCount": 45189
-      }
-    },
-    {
-      "id": "tt33978029",
-      "primaryTitle": "Ready or Not 2: Here I Come",
-      "originalTitle": "Ready or Not: Here I Come",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZTM3N2EyMTEtNDhkMi00ZjNiLWI0MWUtOGViMjExODY3YTJhXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 6480,
-      "genres": [
-        "Comedy",
-        "Horror",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 6.5,
-        "voteCount": 45087
-      }
-    },
-    {
-      "id": "tt5302918",
-      "primaryTitle": "Nyad",
-      "originalTitle": "Nyad",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjBmNGY5YWUtNzg0Ny00YTQ2LWIwNjctOTMzOGI3Y2E1YzFiXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 7260,
-      "genres": [
-        "Biography",
-        "Drama",
-        "History",
-        "Sport"
-      ],
-      "rating": {
-        "aggregateRating": 7.1,
-        "voteCount": 44974
+        "voteCount": 45249
       }
     },
     {
@@ -5345,7 +5313,25 @@
       ],
       "rating": {
         "aggregateRating": 5.2,
-        "voteCount": 44904
+        "voteCount": 45070
+      }
+    },
+    {
+      "id": "tt5302918",
+      "primaryTitle": "Nyad",
+      "originalTitle": "Nyad",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjBmNGY5YWUtNzg0Ny00YTQ2LWIwNjctOTMzOGI3Y2E1YzFiXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 7260,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "Sport"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 45001
       }
     },
     {
@@ -5361,7 +5347,7 @@
       ],
       "rating": {
         "aggregateRating": 5.7,
-        "voteCount": 44806
+        "voteCount": 44834
       }
     },
     {
@@ -5379,7 +5365,23 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 44762
+        "voteCount": 44834
+      }
+    },
+    {
+      "id": "tt4216984",
+      "primaryTitle": "Wolf Man",
+      "originalTitle": "Wolf Man",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYmFkYTNhMWUtMjEyNy00MWE0LWJlYTQtMWFmNDUwNmFjMzAxXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 6180,
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 5.6,
+        "voteCount": 44118
       }
     },
     {
@@ -5399,23 +5401,7 @@
       ],
       "rating": {
         "aggregateRating": 6.2,
-        "voteCount": 44047
-      }
-    },
-    {
-      "id": "tt4216984",
-      "primaryTitle": "Wolf Man",
-      "originalTitle": "Wolf Man",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYmFkYTNhMWUtMjEyNy00MWE0LWJlYTQtMWFmNDUwNmFjMzAxXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 6180,
-      "genres": [
-        "Horror",
-        "Sci-Fi"
-      ],
-      "rating": {
-        "aggregateRating": 5.6,
-        "voteCount": 44037
+        "voteCount": 44115
       }
     },
     {
@@ -5432,23 +5418,7 @@
       ],
       "rating": {
         "aggregateRating": 6.1,
-        "voteCount": 43967
-      }
-    },
-    {
-      "id": "tt5648882",
-      "primaryTitle": "The Burial",
-      "originalTitle": "The Burial",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNDNjZDY4OTMtZjM1Ni00OGYwLWE2NDItYzk1ZWYzYTgyYWNiXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 7560,
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "rating": {
-        "aggregateRating": 7.1,
-        "voteCount": 43136
+        "voteCount": 44043
       }
     },
     {
@@ -5464,7 +5434,38 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 43119
+        "voteCount": 43184
+      }
+    },
+    {
+      "id": "tt5648882",
+      "primaryTitle": "The Burial",
+      "originalTitle": "The Burial",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNDNjZDY4OTMtZjM1Ni00OGYwLWE2NDItYzk1ZWYzYTgyYWNiXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 7560,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 43169
+      }
+    },
+    {
+      "id": "tt32612507",
+      "primaryTitle": "Lee Cronin's The Mummy",
+      "originalTitle": "The Mummy",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNWQ1NzI2YTUtN2E0ZS00YzVmLTkxNjktMWIzNTYwMzkyOTU0XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 8040,
+      "genres": [
+        "Horror"
+      ],
+      "rating": {
+        "aggregateRating": 6.2,
+        "voteCount": 42801
       }
     },
     {
@@ -5481,25 +5482,24 @@
       ],
       "rating": {
         "aggregateRating": 4.7,
-        "voteCount": 42408
+        "voteCount": 42462
       }
     },
     {
-      "id": "tt11274492",
-      "primaryTitle": "The Out-Laws",
-      "originalTitle": "The Out-Laws",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDZmMTczYTgtYzA5MS00ODI5LTk0OWYtYzlkN2ZlYTJjNzBhXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 5700,
+      "id": "tt30274401",
+      "primaryTitle": "Five Nights at Freddy's 2",
+      "originalTitle": "Five Nights at Freddy's 2",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZmQ3NmIxNTgtYjFiNS00NzliLWI0YzAtZDkxY2E0YWIxZDEwXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 6240,
       "genres": [
-        "Action",
-        "Comedy",
-        "Crime",
-        "Romance"
+        "Horror",
+        "Mystery",
+        "Thriller"
       ],
       "rating": {
-        "aggregateRating": 5.4,
-        "voteCount": 41922
+        "aggregateRating": 5.1,
+        "voteCount": 42038
       }
     },
     {
@@ -5519,7 +5519,25 @@
       ],
       "rating": {
         "aggregateRating": 4.7,
-        "voteCount": 41916
+        "voteCount": 41978
+      }
+    },
+    {
+      "id": "tt11274492",
+      "primaryTitle": "The Out-Laws",
+      "originalTitle": "The Out-Laws",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDZmMTczYTgtYzA5MS00ODI5LTk0OWYtYzlkN2ZlYTJjNzBhXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 5700,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 5.4,
+        "voteCount": 41953
       }
     },
     {
@@ -5538,7 +5556,7 @@
       ],
       "rating": {
         "aggregateRating": 7.5,
-        "voteCount": 41893
+        "voteCount": 41937
       }
     },
     {
@@ -5554,24 +5572,7 @@
       ],
       "rating": {
         "aggregateRating": 5.6,
-        "voteCount": 41719
-      }
-    },
-    {
-      "id": "tt30274401",
-      "primaryTitle": "Five Nights at Freddy's 2",
-      "originalTitle": "Five Nights at Freddy's 2",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZmQ3NmIxNTgtYjFiNS00NzliLWI0YzAtZDkxY2E0YWIxZDEwXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 6240,
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 5.1,
-        "voteCount": 41655
+        "voteCount": 41799
       }
     },
     {
@@ -5589,7 +5590,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 41529
+        "voteCount": 41566
       }
     },
     {
@@ -5605,22 +5606,7 @@
       ],
       "rating": {
         "aggregateRating": 5.5,
-        "voteCount": 41447
-      }
-    },
-    {
-      "id": "tt32612507",
-      "primaryTitle": "Lee Cronin's The Mummy",
-      "originalTitle": "The Mummy",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNWQ1NzI2YTUtN2E0ZS00YzVmLTkxNjktMWIzNTYwMzkyOTU0XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 8040,
-      "genres": [
-        "Horror"
-      ],
-      "rating": {
-        "aggregateRating": 6.2,
-        "voteCount": 41372
+        "voteCount": 41495
       }
     },
     {
@@ -5637,7 +5623,25 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 41205
+        "voteCount": 41350
+      }
+    },
+    {
+      "id": "tt14850054",
+      "primaryTitle": "Greenland 2: Migration",
+      "originalTitle": "Greenland 2: Migration",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWEzM2IzZTMtYzA2Yi00NjY0LWE1ODktNTllZmI3ZTI1MzBmXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 5880,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5.2,
+        "voteCount": 41004
       }
     },
     {
@@ -5652,7 +5656,23 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 40742
+        "voteCount": 40857
+      }
+    },
+    {
+      "id": "tt30446847",
+      "primaryTitle": "Jay Kelly",
+      "originalTitle": "Jay Kelly",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWRlNDM1NjktZDkyYi00Zjk0LWE5MTQtNWEyNzMwODY1Njc5XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 7920,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 6.5,
+        "voteCount": 40839
       }
     },
     {
@@ -5672,23 +5692,7 @@
       ],
       "rating": {
         "aggregateRating": 6.4,
-        "voteCount": 40719
-      }
-    },
-    {
-      "id": "tt30446847",
-      "primaryTitle": "Jay Kelly",
-      "originalTitle": "Jay Kelly",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWRlNDM1NjktZDkyYi00Zjk0LWE5MTQtNWEyNzMwODY1Njc5XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 7920,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "rating": {
-        "aggregateRating": 6.5,
-        "voteCount": 40710
+        "voteCount": 40775
       }
     },
     {
@@ -5707,7 +5711,23 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 40670
+        "voteCount": 40770
+      }
+    },
+    {
+      "id": "tt35672862",
+      "primaryTitle": "Hokum",
+      "originalTitle": "Hokum",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6420,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.8,
+        "voteCount": 40727
       }
     },
     {
@@ -5725,25 +5745,7 @@
       ],
       "rating": {
         "aggregateRating": 7.5,
-        "voteCount": 40650
-      }
-    },
-    {
-      "id": "tt14850054",
-      "primaryTitle": "Greenland 2: Migration",
-      "originalTitle": "Greenland 2: Migration",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWEzM2IzZTMtYzA2Yi00NjY0LWE1ODktNTllZmI3ZTI1MzBmXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 5880,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 5.2,
-        "voteCount": 40209
+        "voteCount": 40703
       }
     },
     {
@@ -5760,7 +5762,7 @@
       ],
       "rating": {
         "aggregateRating": 5.4,
-        "voteCount": 40147
+        "voteCount": 40181
       }
     },
     {
@@ -5775,24 +5777,7 @@
       ],
       "rating": {
         "aggregateRating": 4.8,
-        "voteCount": 39811
-      }
-    },
-    {
-      "id": "tt14537248",
-      "primaryTitle": "Nefarious",
-      "originalTitle": "Nefarious",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BM2Q3M2EwMTItYjVjOS00MjdjLWExMTItMjA4MmRhOTAxNzI3XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 5820,
-      "genres": [
-        "Drama",
-        "Horror",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 6.4,
-        "voteCount": 39674
+        "voteCount": 39929
       }
     },
     {
@@ -5809,7 +5794,24 @@
       ],
       "rating": {
         "aggregateRating": 6.2,
-        "voteCount": 39652
+        "voteCount": 39779
+      }
+    },
+    {
+      "id": "tt14537248",
+      "primaryTitle": "Nefarious",
+      "originalTitle": "Nefarious",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BM2Q3M2EwMTItYjVjOS00MjdjLWExMTItMjA4MmRhOTAxNzI3XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 5820,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.4,
+        "voteCount": 39721
       }
     },
     {
@@ -5826,7 +5828,7 @@
       ],
       "rating": {
         "aggregateRating": 7,
-        "voteCount": 39561
+        "voteCount": 39663
       }
     },
     {
@@ -5843,7 +5845,7 @@
       ],
       "rating": {
         "aggregateRating": 6.2,
-        "voteCount": 39495
+        "voteCount": 39537
       }
     },
     {
@@ -5861,7 +5863,7 @@
       ],
       "rating": {
         "aggregateRating": 6.8,
-        "voteCount": 39293
+        "voteCount": 39367
       }
     },
     {
@@ -5878,7 +5880,23 @@
       ],
       "rating": {
         "aggregateRating": 6.7,
-        "voteCount": 39179
+        "voteCount": 39236
+      }
+    },
+    {
+      "id": "tt21097228",
+      "primaryTitle": "A Different Man",
+      "originalTitle": "A Different Man",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYTQ0NDI2NzItZjNiOC00ZDc0LWJiNGMtMzZmMGM2NmVjMmJkXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 6720,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.9,
+        "voteCount": 38679
       }
     },
     {
@@ -5895,23 +5913,24 @@
       ],
       "rating": {
         "aggregateRating": 7.3,
-        "voteCount": 38609
+        "voteCount": 38668
       }
     },
     {
-      "id": "tt21097228",
-      "primaryTitle": "A Different Man",
-      "originalTitle": "A Different Man",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYTQ0NDI2NzItZjNiOC00ZDc0LWJiNGMtMzZmMGM2NmVjMmJkXkEyXkFqcGc@._V1_.jpg",
+      "id": "tt11539996",
+      "primaryTitle": "Relay",
+      "originalTitle": "Relay",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzFhMjljODMtYTY3MS00NmFiLWEzOTAtNTczZjQ1NGMwMjE4XkEyXkFqcGc@._V1_.jpg",
       "startYear": 2024,
       "runtimeSeconds": 6720,
       "genres": [
+        "Action",
         "Drama",
         "Thriller"
       ],
       "rating": {
-        "aggregateRating": 6.9,
-        "voteCount": 38577
+        "aggregateRating": 7,
+        "voteCount": 38647
       }
     },
     {
@@ -5929,7 +5948,7 @@
       ],
       "rating": {
         "aggregateRating": 6,
-        "voteCount": 38519
+        "voteCount": 38623
       }
     },
     {
@@ -5944,40 +5963,41 @@
       ],
       "rating": {
         "aggregateRating": 6.7,
-        "voteCount": 38503
+        "voteCount": 38614
       }
     },
     {
-      "id": "tt11539996",
-      "primaryTitle": "Relay",
-      "originalTitle": "Relay",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzFhMjljODMtYTY3MS00NmFiLWEzOTAtNTczZjQ1NGMwMjE4XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 6720,
+      "id": "tt33100314",
+      "primaryTitle": "Remarkably Bright Creatures",
+      "originalTitle": "Remarkably Bright Creatures",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzM3OTRlZDktYTk0OS00OTlmLWFhMjctMTZiODU4N2RiYzhhXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6660,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 7.7,
+        "voteCount": 38528
+      }
+    },
+    {
+      "id": "tt0427340",
+      "primaryTitle": "Masters of the Universe",
+      "originalTitle": "Masters of the Universe",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTJjYTFkM2EtZjBmNy00OTk2LTg0NTAtNzYxYzlmNjhkMzQ5XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 8400,
       "genres": [
         "Action",
-        "Drama",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 7,
-        "voteCount": 38413
-      }
-    },
-    {
-      "id": "tt15153532",
-      "primaryTitle": "Strays",
-      "originalTitle": "Strays",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDZjN2E2MDYtZWY4ZS00NGMxLWE3MjktYTQ3MzY2ZmNlMTY5XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 5580,
-      "genres": [
         "Adventure",
-        "Comedy"
+        "Fantasy",
+        "Sci-Fi"
       ],
       "rating": {
-        "aggregateRating": 6.3,
-        "voteCount": 38019
+        "aggregateRating": 6.9,
+        "voteCount": 38116
       }
     },
     {
@@ -5993,7 +6013,7 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 37996
+        "voteCount": 38090
       }
     },
     {
@@ -6009,23 +6029,23 @@
       ],
       "rating": {
         "aggregateRating": 6.6,
-        "voteCount": 37788
+        "voteCount": 38069
       }
     },
     {
-      "id": "tt35672862",
-      "primaryTitle": "Hokum",
-      "originalTitle": "Hokum",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 6420,
+      "id": "tt15153532",
+      "primaryTitle": "Strays",
+      "originalTitle": "Strays",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDZjN2E2MDYtZWY4ZS00NGMxLWE3MjktYTQ3MzY2ZmNlMTY5XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 5580,
       "genres": [
-        "Horror",
-        "Thriller"
+        "Adventure",
+        "Comedy"
       ],
       "rating": {
-        "aggregateRating": 6.8,
-        "voteCount": 37537
+        "aggregateRating": 6.3,
+        "voteCount": 38058
       }
     },
     {
@@ -6036,7 +6056,6 @@
       "startYear": 2024,
       "runtimeSeconds": 6000,
       "genres": [
-        "Animation",
         "Action",
         "Adventure",
         "Drama",
@@ -6045,24 +6064,24 @@
       ],
       "rating": {
         "aggregateRating": 4.7,
-        "voteCount": 37395
+        "voteCount": 37446
       }
     },
     {
-      "id": "tt14914430",
-      "primaryTitle": "Unfrosted",
-      "originalTitle": "Unfrosted",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjE1NzA1MWMtZTIyZi00ZDYxLWJlMTYtZjNjMmM4ZWMxNGRkXkEyXkFqcGc@._V1_.jpg",
+      "id": "tt28082769",
+      "primaryTitle": "September 5",
+      "originalTitle": "September 5",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWUxY2YyYzctYWY3Yi00ZGJjLTkzMDktZjYzMTIzZjNhNmM2XkEyXkFqcGc@._V1_.jpg",
       "startYear": 2024,
-      "runtimeSeconds": 5820,
+      "runtimeSeconds": 5700,
       "genres": [
-        "Biography",
-        "Comedy",
-        "History"
+        "Drama",
+        "History",
+        "Thriller"
       ],
       "rating": {
-        "aggregateRating": 5.5,
-        "voteCount": 37072
+        "aggregateRating": 7.1,
+        "voteCount": 37091
       }
     },
     {
@@ -6082,260 +6101,24 @@
       ],
       "rating": {
         "aggregateRating": 6.1,
-        "voteCount": 37068
+        "voteCount": 37089
       }
     },
     {
-      "id": "tt28082769",
-      "primaryTitle": "September 5",
-      "originalTitle": "September 5",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWUxY2YyYzctYWY3Yi00ZGJjLTkzMDktZjYzMTIzZjNhNmM2XkEyXkFqcGc@._V1_.jpg",
+      "id": "tt14914430",
+      "primaryTitle": "Unfrosted",
+      "originalTitle": "Unfrosted",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjE1NzA1MWMtZTIyZi00ZDYxLWJlMTYtZjNjMmM4ZWMxNGRkXkEyXkFqcGc@._V1_.jpg",
       "startYear": 2024,
-      "runtimeSeconds": 5700,
-      "genres": [
-        "Drama",
-        "History",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 7.1,
-        "voteCount": 37024
-      }
-    },
-    {
-      "id": "tt33100314",
-      "primaryTitle": "Remarkably Bright Creatures",
-      "originalTitle": "Remarkably Bright Creatures",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzM3OTRlZDktYTk0OS00OTlmLWFhMjctMTZiODU4N2RiYzhhXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 6660,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "rating": {
-        "aggregateRating": 7.7,
-        "voteCount": 36986
-      }
-    },
-    {
-      "id": "tt24871974",
-      "primaryTitle": "Subservience",
-      "originalTitle": "Subservience",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjdlNjNlODEtYjA1OS00MDgzLWJiNTMtMDVlMWMyOGM5ZDhkXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 6360,
-      "genres": [
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 5.4,
-        "voteCount": 36816
-      }
-    },
-    {
-      "id": "tt15339570",
-      "primaryTitle": "Champions",
-      "originalTitle": "Champions",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWM0OWZiZTctN2IxZi00NTY2LWEwZjctOWRiNzYzMTg3NzM0XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 7440,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Sport"
-      ],
-      "rating": {
-        "aggregateRating": 6.8,
-        "voteCount": 36718
-      }
-    },
-    {
-      "id": "tt32299316",
-      "primaryTitle": "Dangerous Animals",
-      "originalTitle": "Dangerous Animals",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTg5M2ZjNjItZThiZi00NDFiLTg3NmYtMmFhZTkxZWQ2OWVmXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 5880,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 6.4,
-        "voteCount": 36151
-      }
-    },
-    {
-      "id": "tt5822536",
-      "primaryTitle": "Paddington in Peru",
-      "originalTitle": "Paddington in Peru",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzMyNWZlYmYtZDgxMC00ZTU3LWFiYzctNGE0ZDc0OTlhZTRlXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 6360,
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "Family",
-        "Mystery"
-      ],
-      "rating": {
-        "aggregateRating": 6.6,
-        "voteCount": 35669
-      }
-    },
-    {
-      "id": "tt31844586",
-      "primaryTitle": "Sisu: Road to Revenge",
-      "originalTitle": "Sisu 2",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BM2ZiNDZiZDQtMjYyOC00MWY1LTkyZjgtNDM1MmMwZTdhOWFkXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 5340,
-      "genres": [
-        "Action",
-        "Thriller",
-        "War"
-      ],
-      "rating": {
-        "aggregateRating": 6.8,
-        "voteCount": 35524
-      }
-    },
-    {
-      "id": "tt32357218",
-      "primaryTitle": "Shelter",
-      "originalTitle": "Shelter",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzI2ODY3MzQtYzllNy00YWM1LWExZTgtOGIwNjk2MmE2MmY2XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 6420,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 6.2,
-        "voteCount": 35251
-      }
-    },
-    {
-      "id": "tt5112584",
-      "primaryTitle": "Lee",
-      "originalTitle": "Lee",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDlhMDY0NTAtOTQwZi00ZjIxLTk2ZmYtZjU1Y2FiYWRhZDk3XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2023,
-      "runtimeSeconds": 7020,
+      "runtimeSeconds": 5820,
       "genres": [
         "Biography",
-        "Drama",
-        "History",
-        "War"
-      ],
-      "rating": {
-        "aggregateRating": 6.9,
-        "voteCount": 35158
-      }
-    },
-    {
-      "id": "tt12349832",
-      "primaryTitle": "Cuckoo",
-      "originalTitle": "Cuckoo",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTBhMjVkOTQtYWUyOS00ZDVmLWJmMDMtYTg3MTBlMGIzNzkxXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 6120,
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 5.7,
-        "voteCount": 35000
-      }
-    },
-    {
-      "id": "tt26940324",
-      "primaryTitle": "Jackpot!",
-      "originalTitle": "Jackpot!",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMmQ2ZGU3ODYtNzA0Yi00NDlhLWIxNzYtM2E2Y2FhOGNjZjIyXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 6360,
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "rating": {
-        "aggregateRating": 5.8,
-        "voteCount": 34977
-      }
-    },
-    {
-      "id": "tt32063050",
-      "primaryTitle": "Bridget Jones: Mad About the Boy",
-      "originalTitle": "Bridget Jones: Mad About the Boy",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDdlY2Y2ZWEtYjk4Mi00Yjg3LWFlM2MtMWI1ZjVlNGQ5NTNjXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 7440,
-      "genres": [
         "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "rating": {
-        "aggregateRating": 6.5,
-        "voteCount": 34691
-      }
-    },
-    {
-      "id": "tt31194612",
-      "primaryTitle": "Highest 2 Lowest",
-      "originalTitle": "Highest 2 Lowest",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTExYmRjMmMtMGRjMi00ZGIyLTkwZTAtOWExOTYwNmM4NTk3XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 7980,
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery",
-        "Thriller"
+        "History"
       ],
       "rating": {
         "aggregateRating": 5.5,
-        "voteCount": 34478
-      }
-    },
-    {
-      "id": "tt35521922",
-      "primaryTitle": "Good Boy",
-      "originalTitle": "Good Boy",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BODJhM2JhYjktN2JlMC00YzVjLWI3NjctMTgzYjhhZDk3ZjU2XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 4320,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 6.1,
-        "voteCount": 34181
-      }
-    },
-    {
-      "id": "tt13186306",
-      "primaryTitle": "War of the Worlds",
-      "originalTitle": "War of the Worlds",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWVlZDUzNTgtYzcxNC00OTYyLThlZjYtZDc1MTM2ZmI1Y2IzXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 5460,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 2.5,
-        "voteCount": 33919
+        "voteCount": 37087
       }
     },
     {
@@ -6353,7 +6136,244 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 33827
+        "voteCount": 37081
+      }
+    },
+    {
+      "id": "tt24871974",
+      "primaryTitle": "Subservience",
+      "originalTitle": "Subservience",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjdlNjNlODEtYjA1OS00MDgzLWJiNTMtMDVlMWMyOGM5ZDhkXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 6360,
+      "genres": [
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5.4,
+        "voteCount": 36881
+      }
+    },
+    {
+      "id": "tt32565993",
+      "primaryTitle": "The Sheep Detectives",
+      "originalTitle": "The Sheep Detectives",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTFmZWI4YmMtNmQ0ZC00ZGQwLTk1OWEtZjAyZmIzOGY0MGFiXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6540,
+      "genres": [
+        "Comedy",
+        "Family",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 7.5,
+        "voteCount": 36863
+      }
+    },
+    {
+      "id": "tt15339570",
+      "primaryTitle": "Champions",
+      "originalTitle": "Champions",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWM0OWZiZTctN2IxZi00NTY2LWEwZjctOWRiNzYzMTg3NzM0XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 7440,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sport"
+      ],
+      "rating": {
+        "aggregateRating": 6.8,
+        "voteCount": 36743
+      }
+    },
+    {
+      "id": "tt32299316",
+      "primaryTitle": "Dangerous Animals",
+      "originalTitle": "Dangerous Animals",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTg5M2ZjNjItZThiZi00NDFiLTg3NmYtMmFhZTkxZWQ2OWVmXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 5880,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.4,
+        "voteCount": 36407
+      }
+    },
+    {
+      "id": "tt32357218",
+      "primaryTitle": "Shelter",
+      "originalTitle": "Shelter",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzI2ODY3MzQtYzllNy00YWM1LWExZTgtOGIwNjk2MmE2MmY2XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6420,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.2,
+        "voteCount": 36332
+      }
+    },
+    {
+      "id": "tt31844586",
+      "primaryTitle": "Sisu: Road to Revenge",
+      "originalTitle": "Sisu 2",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BM2ZiNDZiZDQtMjYyOC00MWY1LTkyZjgtNDM1MmMwZTdhOWFkXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 5340,
+      "genres": [
+        "Action",
+        "Thriller",
+        "War"
+      ],
+      "rating": {
+        "aggregateRating": 6.8,
+        "voteCount": 36002
+      }
+    },
+    {
+      "id": "tt5822536",
+      "primaryTitle": "Paddington in Peru",
+      "originalTitle": "Paddington in Peru",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzMyNWZlYmYtZDgxMC00ZTU3LWFiYzctNGE0ZDc0OTlhZTRlXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 6360,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 35767
+      }
+    },
+    {
+      "id": "tt5112584",
+      "primaryTitle": "Lee",
+      "originalTitle": "Lee",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDlhMDY0NTAtOTQwZi00ZjIxLTk2ZmYtZjU1Y2FiYWRhZDk3XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2023,
+      "runtimeSeconds": 7020,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "War"
+      ],
+      "rating": {
+        "aggregateRating": 6.9,
+        "voteCount": 35227
+      }
+    },
+    {
+      "id": "tt12349832",
+      "primaryTitle": "Cuckoo",
+      "originalTitle": "Cuckoo",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTBhMjVkOTQtYWUyOS00ZDVmLWJmMDMtYTg3MTBlMGIzNzkxXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 6120,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5.7,
+        "voteCount": 35152
+      }
+    },
+    {
+      "id": "tt26940324",
+      "primaryTitle": "Jackpot!",
+      "originalTitle": "Jackpot!",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMmQ2ZGU3ODYtNzA0Yi00NDlhLWIxNzYtM2E2Y2FhOGNjZjIyXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 6360,
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "rating": {
+        "aggregateRating": 5.8,
+        "voteCount": 35036
+      }
+    },
+    {
+      "id": "tt32063050",
+      "primaryTitle": "Bridget Jones: Mad About the Boy",
+      "originalTitle": "Bridget Jones: Mad About the Boy",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDdlY2Y2ZWEtYjk4Mi00Yjg3LWFlM2MtMWI1ZjVlNGQ5NTNjXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 7440,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 6.5,
+        "voteCount": 34733
+      }
+    },
+    {
+      "id": "tt31194612",
+      "primaryTitle": "Highest 2 Lowest",
+      "originalTitle": "Highest 2 Lowest",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTExYmRjMmMtMGRjMi00ZGIyLTkwZTAtOWExOTYwNmM4NTk3XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 7980,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5.5,
+        "voteCount": 34593
+      }
+    },
+    {
+      "id": "tt35521922",
+      "primaryTitle": "Good Boy",
+      "originalTitle": "Good Boy",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BODJhM2JhYjktN2JlMC00YzVjLWI3NjctMTgzYjhhZDk3ZjU2XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 4320,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.1,
+        "voteCount": 34393
+      }
+    },
+    {
+      "id": "tt13186306",
+      "primaryTitle": "War of the Worlds",
+      "originalTitle": "War of the Worlds",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWVlZDUzNTgtYzcxNC00OTYyLThlZjYtZDc1MTM2ZmI1Y2IzXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 5460,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 2.5,
+        "voteCount": 33981
       }
     },
     {
@@ -6369,7 +6389,7 @@
       ],
       "rating": {
         "aggregateRating": 6.1,
-        "voteCount": 33681
+        "voteCount": 33752
       }
     },
     {
@@ -6386,24 +6406,7 @@
       ],
       "rating": {
         "aggregateRating": 5.7,
-        "voteCount": 33511
-      }
-    },
-    {
-      "id": "tt21188080",
-      "primaryTitle": "Lisa Frankenstein",
-      "originalTitle": "Lisa Frankenstein",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZGFhNGNiNTEtMjNiNC00MjE5LTk3OTYtYmNiY2IxMTNjNjczXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2024,
-      "runtimeSeconds": 6060,
-      "genres": [
-        "Comedy",
-        "Horror",
-        "Romance"
-      ],
-      "rating": {
-        "aggregateRating": 6.1,
-        "voteCount": 32624
+        "voteCount": 33540
       }
     },
     {
@@ -6421,7 +6424,24 @@
       ],
       "rating": {
         "aggregateRating": 5.6,
-        "voteCount": 32524
+        "voteCount": 33307
+      }
+    },
+    {
+      "id": "tt21188080",
+      "primaryTitle": "Lisa Frankenstein",
+      "originalTitle": "Lisa Frankenstein",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZGFhNGNiNTEtMjNiNC00MjE5LTk3OTYtYmNiY2IxMTNjNjczXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2024,
+      "runtimeSeconds": 6060,
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 6.1,
+        "voteCount": 32676
       }
     },
     {
@@ -6438,7 +6458,7 @@
       ],
       "rating": {
         "aggregateRating": 4.7,
-        "voteCount": 32410
+        "voteCount": 32467
       }
     },
     {
@@ -6455,25 +6475,7 @@
       ],
       "rating": {
         "aggregateRating": 6.7,
-        "voteCount": 32265
-      }
-    },
-    {
-      "id": "tt20214908",
-      "primaryTitle": "Another Simple Favor",
-      "originalTitle": "Another Simple Favor",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDBhNTg1MWMtMDc5Ni00YTk1LWFjNGUtMmE2Y2Q5MGQ2M2Q2XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 7200,
-      "genres": [
-        "Comedy",
-        "Crime",
-        "Mystery",
-        "Thriller"
-      ],
-      "rating": {
-        "aggregateRating": 5.3,
-        "voteCount": 31978
+        "voteCount": 32306
       }
     },
     {
@@ -6491,25 +6493,25 @@
       ],
       "rating": {
         "aggregateRating": 7.1,
-        "voteCount": 31909
+        "voteCount": 32128
       }
     },
     {
-      "id": "tt0427340",
-      "primaryTitle": "Masters of the Universe",
-      "originalTitle": "Masters of the Universe",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTJjYTFkM2EtZjBmNy00OTk2LTg0NTAtNzYxYzlmNjhkMzQ5XkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 8400,
+      "id": "tt20214908",
+      "primaryTitle": "Another Simple Favor",
+      "originalTitle": "Another Simple Favor",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDBhNTg1MWMtMDc5Ni00YTk1LWFjNGUtMmE2Y2Q5MGQ2M2Q2XkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 7200,
       "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Sci-Fi"
+        "Comedy",
+        "Crime",
+        "Mystery",
+        "Thriller"
       ],
       "rating": {
-        "aggregateRating": 7,
-        "voteCount": 31755
+        "aggregateRating": 5.3,
+        "voteCount": 32034
       }
     },
     {
@@ -6525,7 +6527,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 31554
+        "voteCount": 31617
       }
     },
     {
@@ -6542,7 +6544,7 @@
       ],
       "rating": {
         "aggregateRating": 6.5,
-        "voteCount": 31420
+        "voteCount": 31474
       }
     },
     {
@@ -6560,7 +6562,7 @@
       ],
       "rating": {
         "aggregateRating": 6.4,
-        "voteCount": 31413
+        "voteCount": 31451
       }
     },
     {
@@ -6577,7 +6579,7 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 31366
+        "voteCount": 31450
       }
     },
     {
@@ -6596,7 +6598,7 @@
       ],
       "rating": {
         "aggregateRating": 5.7,
-        "voteCount": 31265
+        "voteCount": 31321
       }
     },
     {
@@ -6611,7 +6613,22 @@
       ],
       "rating": {
         "aggregateRating": 6.4,
-        "voteCount": 31178
+        "voteCount": 31205
+      }
+    },
+    {
+      "id": "tt33028778",
+      "primaryTitle": "Primate",
+      "originalTitle": "Primate",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTA5MDI3MjctMGQ1My00ODI1LWFmNjctMjdlNDdiYzcyMWMwXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 5520,
+      "genres": [
+        "Horror"
+      ],
+      "rating": {
+        "aggregateRating": 5.8,
+        "voteCount": 31142
       }
     },
     {
@@ -6627,7 +6644,7 @@
       ],
       "rating": {
         "aggregateRating": 7.4,
-        "voteCount": 30882
+        "voteCount": 30938
       }
     },
     {
@@ -6643,7 +6660,7 @@
       ],
       "rating": {
         "aggregateRating": 7,
-        "voteCount": 30767
+        "voteCount": 30798
       }
     },
     {
@@ -6659,22 +6676,7 @@
       ],
       "rating": {
         "aggregateRating": 5.5,
-        "voteCount": 30742
-      }
-    },
-    {
-      "id": "tt33028778",
-      "primaryTitle": "Primate",
-      "originalTitle": "Primate",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTA5MDI3MjctMGQ1My00ODI1LWFmNjctMjdlNDdiYzcyMWMwXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2025,
-      "runtimeSeconds": 5520,
-      "genres": [
-        "Horror"
-      ],
-      "rating": {
-        "aggregateRating": 5.8,
-        "voteCount": 30679
+        "voteCount": 30791
       }
     },
     {
@@ -6690,7 +6692,27 @@
       ],
       "rating": {
         "aggregateRating": 6.7,
-        "voteCount": 30632
+        "voteCount": 30665
+      }
+    },
+    {
+      "id": "tt29355505",
+      "primaryTitle": "Toy Story 5",
+      "originalTitle": "Toy Story 5",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 6120,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 30602
       }
     },
     {
@@ -6707,7 +6729,23 @@
       ],
       "rating": {
         "aggregateRating": 4.4,
-        "voteCount": 30492
+        "voteCount": 30510
+      }
+    },
+    {
+      "id": "tt32362890",
+      "primaryTitle": "Thrash",
+      "originalTitle": "Thrash",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BODMxNjdhMWQtMmJhYS00MDc1LTkyYzAtYTgzZTFhMmI1ODEyXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2026,
+      "runtimeSeconds": 5160,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5,
+        "voteCount": 30463
       }
     },
     {
@@ -6725,7 +6763,7 @@
       ],
       "rating": {
         "aggregateRating": 7,
-        "voteCount": 30422
+        "voteCount": 30443
       }
     },
     {
@@ -6743,23 +6781,24 @@
       ],
       "rating": {
         "aggregateRating": 6.3,
-        "voteCount": 30354
+        "voteCount": 30427
       }
     },
     {
-      "id": "tt32362890",
-      "primaryTitle": "Thrash",
-      "originalTitle": "Thrash",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BODMxNjdhMWQtMmJhYS00MDc1LTkyYzAtYTgzZTFhMmI1ODEyXkEyXkFqcGc@._V1_.jpg",
-      "startYear": 2026,
-      "runtimeSeconds": 5160,
+      "id": "tt4978342",
+      "primaryTitle": "My Oxford Year",
+      "originalTitle": "My Oxford Year",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWU0YTc0OWYtOWJjNy00ZDYzLWFlMTItMGZkNzM4YjQ5OWQzXkEyXkFqcGc@._V1_.jpg",
+      "startYear": 2025,
+      "runtimeSeconds": 6720,
       "genres": [
-        "Horror",
-        "Thriller"
+        "Comedy",
+        "Drama",
+        "Romance"
       ],
       "rating": {
-        "aggregateRating": 5,
-        "voteCount": 30073
+        "aggregateRating": 5.9,
+        "voteCount": 30167
       }
     },
     {
@@ -6774,7 +6813,7 @@
       ],
       "rating": {
         "aggregateRating": 4.7,
-        "voteCount": 30005
+        "voteCount": 30109
       }
     }
   ]
